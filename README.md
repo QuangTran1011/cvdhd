@@ -4,5 +4,7 @@
 2. `ollama serve`
 3. `ollama pull mxbai-embed-large`
 
+
 # Run
+ADD GG_API_KEY and
 `streamlit run app.py`
