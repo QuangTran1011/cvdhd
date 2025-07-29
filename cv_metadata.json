@@ -1,0 +1,1266 @@
+[
+  {
+    "content": "```markdown\n# ĐỖ HOÀNG LONG\nJava Developer\nPhone number: xxxxxxxxx0\nEmail: examble031200@gmail.com\nAddress: Ho Chi Minh City\nBirthday: 00/00/0000\nGitHub: github.com/xxxxx\n\n## CAREER OBJECTIVE\nA Java developer with experience in backend development using Spring Boot,\naiming to leverage expertise in RESTful APIs, Spring Security, and databases\nto contribute to high-quality software projects. Aspiring to become a Full-stack\nDeveloper within 3 years.\n\n## WORK EXPERIENCE\n### T4 TEK\nIntern Developer (11/2024 – 02/2025)\n- Developed and executed test cases for project Connect Coffee (a cafe management system).\n- Assisted the backend team in debugging and feature enhancement for project Parking Solution.",
+    "metadata": {
+      "source": "CV_demo.pdf",
+      "chunk_id": 0,
+      "chunk_size": 704
+    }
+  },
+  {
+    "content": "## PROJECTS\n### User Management System (03/2025 – 04/2025)\nTeam size: 1\nRole: Backend Developer\n- Designed RESTful APIs with Spring Boot\n- Managed databases using MySQL & JPA/Hibernate\n    - CRUD for employee/customer + admin-level user locking/unlocking\n    - Spring SecurityUnit testing using JUnit & Mockito\n**Tech stack**: Spring Boot, REST API, MySQL, Thymeleaf, Spring Security, Spring JPA, JUnit, Mockito\nGitHub: github.com/xxxxxxx\n\n### Sale_Manager (06/2025 – On going)\nTeam size: 1\nRole: Fullstack Developer\n**Back-End**:\n- Developed authentication and authorization features using JWT with Spring SecurityBuilt RESTful APIs using Spring Boot\n- Managed data persistence with Spring Data JPA and Hibernate\n- Implemented token refresh mechanism using refreshToken when accessToken expires\n- Planning to integrate Google OAuth for user identity linking and account updates",
+    "metadata": {
+      "source": "CV_demo.pdf",
+      "chunk_id": 1,
+      "chunk_size": 878
+    }
+  },
+  {
+    "content": "**Front-End**:\n- Built the user interface using React with Vite for fast development\n- Managed global state using Redux\n- Designed responsive UI with Tailwind CSS\n- Handled user login/logout flows and route protection based on user roles\n- Configured Axios interceptors to automatically attach tokens and handle token expiration\n**Tech stack**: React, Vite, Redux, Tailwind CSS, Spring Boot, Spring Security, JWT, MySQL, Axios\nGitHub: github.com/xxxxxxXXX\n\n## TECHNICAL SKILLS\n**Languages**: Java (Core, OOP), JavaScript(ES6+), Typescript, HTML5, CSS3\n**Frameworks Front End**: React, Redux, Tailwind\n**Frameworks Back End**: Spring Boot, Spring Security, JPA/Hibernate, Thymeleaf\n**Database**: MySQL, SQL Server (SQL queries)\n**Testing**: JUnit, Mockito\n**Tools**: GitHub (Version Control), Docker (Containerization), Postman, AI Tools: ChatGPT (for debugging, research document), Swagger, JWT Debugger\n**English**: Reading technical document( intermidiate)",
+    "metadata": {
+      "source": "CV_demo.pdf",
+      "chunk_id": 2,
+      "chunk_size": 958
+    }
+  },
+  {
+    "content": "## EDUCATION\nNam Sai Gon Polytechnic College (2022 – 2025)\nMajor: Information Technology\nStatus: Graduated\n\n## ACTIVITIES\nCOVID-19 Volunteer (06/2020 – 12/2020)\nData entry for medical records\n\n## INTERESTS\nCalisthenics\nCoding\n\n## ADDITIONAL GOALS\nIntegrating CI/CD and Docker into the Software Development Process\nLearn more about microservice, API Gateway (Spring Cloud Gateway)\n```",
+    "metadata": {
+      "source": "CV_demo.pdf",
+      "chunk_id": 3,
+      "chunk_size": 383
+    }
+  },
+  {
+    "content": "# Tran Trong Dai\nINTERN JAVA BACKEND DEVOLOPER\n\n## Objective\nAs a fourth-year web development student, I am actively seeking an internship to apply and expand my programming and design skills. With a strong technical foundation and a passion for learning, I am eager to contribute to the success of the team and grow professionally.\n\n## Profile\n*   29/06/2003\n*   Male\n*   0392178026\n*   trantrongdai2003@gmail.com\n*   https://github.com/trandai03\n*   Vạn Phúc, Hà Đông, Hà Nội\n\n## Education\nPhenikaa University 2021 - 2025\nInformation Technology\nGPA: 3.0/4.0\n\n## Skills\nLanguages: Java Core, PHP, C++, Javascript.\nFramework / Library: Spring Boot, Hibernate.\nDatabase: SQLite, MySQL, PostgreSQL.\nOther: Git, Github, MVC, OOP, Postman.\nEnglish: Basic Reading and Listening.\n\n## Certifications\n2024\nEnglish Communication for Tech Professionals - Cousera",
+    "metadata": {
+      "source": "CV Tran Trong Dai -  Intern Java Backend.pdf",
+      "chunk_id": 0,
+      "chunk_size": 852
+    }
+  },
+  {
+    "content": "## Projects\nTeam work Project - Quiz Web 9/2024 - Present\nGithub: https://github.com/trandai03/quiz_backend\nSwagger: https://api.trandai03.online/swagger-ui/index.html\nTeam size: 3\nPosition: Backend Developer\nTechnology: HTML, CSS, Javascript, ReactJS, Java Spring Boot, MySQL, Swagger, Heroku, Redis, Flyway, JWT, Oauth2, Hibernate.\nDescription: Developed a web application that allows users to create, participate in, and manage quizzes across various topics. The application features user authentication, quiz creation, automatic grading, and leaderboard functionality.\nMy Responsibilities:\n*   Developed RESTful APIs for quiz and competition creation, question management, and result processing using Spring Boot.\n*   Authentication and authorisation with Spring Security, JWT.\n*   Integrated Google login via OAuth2, including email verification for enhanced security.\n*   Enabled image uploads for quizzes via Cloudinary for streamlined content management.",
+    "metadata": {
+      "source": "CV Tran Trong Dai -  Intern Java Backend.pdf",
+      "chunk_id": 1,
+      "chunk_size": 962
+    }
+  },
+  {
+    "content": "*   Enabled image uploads for quizzes via Cloudinary for streamlined content management.\n*   Managed database migrations using Flyway to ensure smooth updates and version control.\n*   Integrated Redis for caching frequently accessed data to optimize performance and reduce database load.",
+    "metadata": {
+      "source": "CV Tran Trong Dai -  Intern Java Backend.pdf",
+      "chunk_id": 2,
+      "chunk_size": 287
+    }
+  },
+  {
+    "content": "Team work Project - Ecommerce Shop 6/2024 - 8/2024\nGithub: https://github.com/trandai03/ecommerce_be\nTeam size: 3\nPosition: Backend Developer\nTechnology: HTML, CSS, Javascript, ReactJS, Java Spring Boot, MySQL, Cloudinary, Heroku.\nDescription: Built a web-based e-commerce platform where users can browse, search, and purchase products. Features include product catalog management, shopping cart, order processing, and user authentication.\nMy Responsibilities:\n*   Designed and developed the backend using Spring Boot.\n*   Authentication and authorisation with Spring Security\n*   Designed REST APIs for product search, filtering, order and user management.\n*   Upload product image by Cloudinary.\n*   Deployed the application on Heroku.",
+    "metadata": {
+      "source": "CV Tran Trong Dai -  Intern Java Backend.pdf",
+      "chunk_id": 3,
+      "chunk_size": 737
+    }
+  },
+  {
+    "content": "```markdown\n# CURRICULUM VITAE\n\n## PERSONAL INFORMATION\n\nName: Vo Minh Phi\nAddress: District 5, Ho Chi Minh City, Vietnam\nCell phone: +84 399987271 (Vietnam)\nE-mail Address: vominhphi2609@gmail.com\nWebsite: https://minhphi-portfolio.my.canva.site/vo-minh-phi\nGithub: https://github.com/mfiiii\n\n## CAREER OBJECTIVE\n\nAspiring backend developer with strong foundations in C# and Python, passionate about building scalable\nweb applications and clean architecture. Eager to contribute to innovative projects, grow within a high-\nperforming engineering team, and develop into a senior backend engineer.\n\n## EDUCATION\n\nBachelor of Information Technology – Major in Data Science 2021 - 2025\nHo Chi Minh City University of Foreign Languages and Information Technology (HUFLIT)\n2021 – 2025 (Expected)\nThesis: Lung cancer prediction using convolutional neural networks (CNNs)\n\n## WORK EXPERIENCE",
+    "metadata": {
+      "source": "CURRICULUM VITAE page.pdf",
+      "chunk_id": 0,
+      "chunk_size": 884
+    }
+  },
+  {
+    "content": "## WORK EXPERIENCE\n\nBackend Developer and Project - Owner, APPVITY System Co.,Ltd 1/2025 - Present\n* Built enterprise-level backend systems using ASP.NET Core, EF Core, and SQL Server\n* Implemented OData for advanced filtering, sorting, and pagination\n* Integrated Redis caching and SignalR for real-time data updates\n* Secured applications with JWT authentication and role-based access control\n* Applied SOLID principles and common design patterns\n* Conducted structured logging using Log4Net and EventHandle\n* Deployed full systems via IIS and used AutoMapper for clean data mapping\n\n## PROJECTS\n\nEmployee Management System - Owner\nA web-based system designed to centralize employee data, manage departments, and streamline HR\noperations such as tracking roles, salaries, and access levels-improving organizational efficiency.\nGitHub Repo: https://github.com/mfiiii/Api-web-MVC",
+    "metadata": {
+      "source": "CURRICULUM VITAE page.pdf",
+      "chunk_id": 1,
+      "chunk_size": 879
+    }
+  },
+  {
+    "content": "COVID-19 Data Visualization & Reporting - Owner\nAnalyzed global COVID-19 data to identify trends in cases, deaths, and vaccination rates using SQL.\nCreated insightful dashboards to support data-driven decisions, public awareness.\nGitHub Repo: https://github.com/mfiiii/CovidPortfolioProject\n\n## PROFESSIONAL SKILLS\n\n* Programming Languages: C#, LINQ, Python\n* Frameworks & Libraries: ASP.NET Core, EF Core, SignalR, AutoMapper, OData, Express.js, Log4Net\n* Database Technologies: SQL Server, Redis, Stored Procedures, JSON, CTEs, Indexing\n* Core Concepts: OOP, SOLID, Design Patterns (e.g., DI, Singleton), Delegates, Events\n* API Development: RESTful APIs, JWT Authentication, Role-Based Authorization, API Versioning\n* Python Skills: Data analysis (pandas, NumPy), data visualization (matplotlib, seaborn), scripting\n* Testing & Deployment: xUnit, Moq, IIS hosting, Port binding\n* Soft Skills: Problem-solving, teamwork, adaptability, clear documentation\n\n## LANGUAGES",
+    "metadata": {
+      "source": "CURRICULUM VITAE page.pdf",
+      "chunk_id": 2,
+      "chunk_size": 970
+    }
+  },
+  {
+    "content": "## LANGUAGES\n\nVietnamese: Native\nEnglish: Upper-Intermediate (TOEIC 650 – able to read documentation, write reports, and communicate\nin technical contexts)\n```",
+    "metadata": {
+      "source": "CURRICULUM VITAE page.pdf",
+      "chunk_id": 3,
+      "chunk_size": 159
+    }
+  },
+  {
+    "content": "```markdown\n# Tamara Turbinado\nAssociate Software Engineer\n\nProven Associate Software Engineer with 4-year Computer Science degree and 1+ years of experience. As a dedicated problem solver, I display an expert skill in JavaScript and supporting languages/libraries/frameworks that solve real-world problems through code. Through my time at Boeing, I have gained further hands-on experience in industry-standard development, which I'm looking to apply to a growing business like Amazon.\n\nTamar@email.com\n(123) 456-7890\nSan Jose, CA\nlinkedin.com",
+    "metadata": {
+      "source": "Tamara_Turbinado.pdf",
+      "chunk_id": 0,
+      "chunk_size": 543
+    }
+  },
+  {
+    "content": "Tamar@email.com\n(123) 456-7890\nSan Jose, CA\nlinkedin.com\n\n## WORK EXPERIENCE\nBoeing\nAssociate Software Engineer\nMountain View, CA | July 2021 - current\n* Developed, tested, debugged, and documented 33+ software applications\n* Used established coding standards and methodologies and coached 2 junior engineers on best practices\n* Worked within an agile scrum team, contributing to 100% continuous improvement and deployment (CICD)\n* Designed and developed 26+ software applications based on user stories, requirements, and design specifications\n* Documented software changes for use by 37+ engineers, quality assurance and documentation specialists\n\n## SKILLS\n* HTML\n* CSS\n* Bootstrap\n* SASS\n* JavaScript\n* React\n* jQuery\n\n## EDUCATION\nBachelor of Science\nComputer Science\nSan Jose State University\n2017 - 2021\nSan Jose, CA",
+    "metadata": {
+      "source": "Tamara_Turbinado.pdf",
+      "chunk_id": 1,
+      "chunk_size": 822
+    }
+  },
+  {
+    "content": "## PROJECTS\nStreamer Highlighter\n* Designed mobile-first project to help 1,300+ users discover smaller streamers on the Twitch.tv platform, providing a user experience through advanced search integration with Twitch\n* Developed 100% RESTful API to control user functions using Express.JS with MongoDB as a persistence layer while utilizing React on the frontend\n* Created Mobile Responsive User Experience with CSS Grids that integrated with Twitch API data to allow users to see viewers and gameplay of the streamers\n\nHospitality Highlighter\n* Created an application to alert 8-person staff to needed service at tables\n* Designed an easy-to-understand-and-use front-end, enabling customers and staff to alert and be alerted to requests\n* Implemented Hospitality Highlighter with technology like Express and MongoDB to manage and pass requests from the JavaScript/React front-end\n```",
+    "metadata": {
+      "source": "Tamara_Turbinado.pdf",
+      "chunk_id": 2,
+      "chunk_size": 883
+    }
+  },
+  {
+    "content": "```markdown\n# Tasiana Ukura\ntukura@email.com (123) 456-7890 Seattle, WA [LinkedIn](None)\n\n## WORK EXPERIENCE\n**Fast - Senior Software Engineer**\nOctober 2016 - current Seattle, WA\n* Built and maintained application that scaled to 2M daily users, communicating with cross-functional teams regarding product and design\n* Transformed Uls using React, decreasing debugging time by 62% and increasing views by 31%\n* Focused on front-end development, providing mentorship and coaching to 6 interns each summer\n* Oversaw a team of 4 to write scalable code for the e-commerce platform that increase payment protection by 15%",
+    "metadata": {
+      "source": "Tasiana_Ukura.pdf",
+      "chunk_id": 0,
+      "chunk_size": 616
+    }
+  },
+  {
+    "content": "**Adaptiva - Software Engineer**\nMay 2009 - October 2016 Seattle, WA\n* Developed cloud-based technologies with C ++ and Java to assist Fortune 500 companies with scaling content distribution by 60% or more and increasing their productivity by 40% or more\n* Teamed up with current clients to understand needs for improved functionality, and communicated with engineers and clients to develop enhancements that boosted client satisfaction by 27%\n* Manipulated algorithms to align with marketing, sales, and solutions, improving automation by 32%\n* Drafted documentations delineating designs and specs for more than 20 projects",
+    "metadata": {
+      "source": "Tasiana_Ukura.pdf",
+      "chunk_id": 1,
+      "chunk_size": 624
+    }
+  },
+  {
+    "content": "**Expedia Group - Software Engineer Intern**\nMay 2008 - May 2009 Seattle, WA\n* Worked with 5 other interns under the supervision of senior software engineer full stack development of the e-commerce system\n* Received coaching and support from peers and senior software engineer, and gained practical experience in using Java and Python\n* Studied data structures to recommend changes in algorithms, which boosted online sales by 6%\n* Partnered with interns, using code composition to redesign a clean API that offered increased flexibility to to third parties, which generated a revenue increase of $1.5M\n\n## EDUCATION\n**University of Washington - B.S., Computer Science**\nAugust 2004 - May 2008 Seattle, WA\n\n## SKILLS\nLanguages: Python, JavaScript, C++, Java; Frameworks: Django, NodeJS, React; Tools: jQuery, Unix, Git, Selenium; Databases: SQL (PostgreSQL, MySQL), NoSQL, AWS\n```",
+    "metadata": {
+      "source": "Tasiana_Ukura.pdf",
+      "chunk_id": 2,
+      "chunk_size": 880
+    }
+  },
+  {
+    "content": "```markdown\n# DEAN BLYTHE\nSoftware Integration Engineer\ndean-blythe@email.com (123) 456-7890 San Francisco, CA\nLinkedIn\n\n## WORK EXPERIENCE\nIntegration Engineer\nMarqeta\n2018 - current Oakland, CA\n* Managed the design, development, implementation, and support of application integrations across 2 clinical and business systems\n* Evaluated all systems to determine integration requirements\n* Identified trouble spots during integration process and provided 49 solutions to restore full functionality with no errors\n* Communicated with 20+ stakeholders, development teams, and technology vendors during design and implementation\n\nSoftware Quality Engineer\nAdobe\n2012-2018 San Francisco, CA\n* Led test plan and code reviews with 2 teams every week\n* Developed, maintained, and extended a Java-based automation test framework that decreased bugs by 72%\n* Develop 100+ automated test suites to validate API, Back End, and Front End components",
+    "metadata": {
+      "source": "DEAN_BLYTHE.pdf",
+      "chunk_id": 0,
+      "chunk_size": 936
+    }
+  },
+  {
+    "content": "Software Engineer\nUber\n2009-2012 San Francisco, CA\n* Highlighted best practices and areas of concern for 3 teams\n* Managed support across 4 SQEs supporting a program to ensure SQE commitments are met\n* Ensured company safety compliance for 100% of software lifecycle activities and products\n\nStaff Software Engineer\nWestern Union\n2006-2009 San Francisco, CA\n* Set and upheld standards for code quality and platform stability\n* Led plans for projects for product ideas and 7 program features\n* Partnered with 6 senior engineers, product design team, and 4 managers to schedule projects and establish timelines\n\n## EDUCATION\nBachelor of Science\nComputer Science\nStanford University\n2002-2006\nStanford, CA\n\n## SKILLS\n* HTML\n* CSS\n* Javascript\n* React\n* Angular\n* PostgreSQL\n* MongoDB\n* Agile/Scrum/Waterfall\n* Attention to Detail\n* Verba Communication\n```",
+    "metadata": {
+      "source": "DEAN_BLYTHE.pdf",
+      "chunk_id": 1,
+      "chunk_size": 852
+    }
+  },
+  {
+    "content": "# ĐÀO VĂN ĐẠT\n\nDeveloper\n\n- 0865059383\n- tiendat0000155@gmail.com\n- Hometown: Ninh Binh\n- Address: House No. 5, Poultry Collective Housing Area\n\n## OBJECTIVE\n\nSoftware developer with 1 year of hands-on experience in Node.js and ReactJS. Skilled in building RESTful APIs using LoopBack 4 and\ndeveloping interactive, component-based UIs with ReactJS. Eager to grow as a full-stack developer and contribute to impactful, scalable web\napplications in a collaborative team environment\n\n## EDUCATION\n\n**University of Transport** | September 2020 - January 2025\n\nInformation Technology Engineer\n- Completed the program\n- GPA: 2.8/4.0\n\n## WORK EXPERIENCE\n\n**VIET BAC TECHNOLOGY JOINT STOCK COMPANY** | March 2023 - March 2025",
+    "metadata": {
+      "source": "CV_DEV_TA.pdf",
+      "chunk_id": 0,
+      "chunk_size": 717
+    }
+  },
+  {
+    "content": "## WORK EXPERIENCE\n\n**VIET BAC TECHNOLOGY JOINT STOCK COMPANY** | March 2023 - March 2025\n\n**Position:** Associate\nResponsible for the development of client-centric web applications.\n- Project: Nexgen - SKTes\n- Project Description: A web application for warehouse management.\n- Responsibilities:\n    - Fontend: Developed UI based on Figma designs using ReactJS class component.\n    - Backend: Migrated APIs (NodeJS - LoopBack 4, PostgreSQL), including transitioning APIs from LoopBack 3 to LoopBack\n4 and handling controller migration.\n\n## PERSONAL PROJECT\n\n**Project Role:** Team Leader | January 2023 - April 2023\n\n**Cafe Shop Management Website**\n\nLink code: https://github.com/TienDat051102/BTL_MVC_Quanlyquancafe.git\n\nProject Description: The Cafe Shop Management Website is a web-based application designed to streamline and optimize the management of a\ncoffee shop. The system provides features for order management, inventory tracking, sales reporting, and employee management.",
+    "metadata": {
+      "source": "CV_DEV_TA.pdf",
+      "chunk_id": 1,
+      "chunk_size": 985
+    }
+  },
+  {
+    "content": "Key Features:\n- Order Management: Allows staff to take and manage customer orders efficiently.\n- Inventory Tracking: Monitors stock levels and notifies when supplies are low.\n- Sales Reporting: Generates reports on daily, weekly, and monthly sales.\n- User Management: Supports different user roles such as admin, staff, and customers.\n\nThis project was developed using C# MVC, ensuring a structured and scalable architecture.\n\n**Project Role:** Team Leader | September 2023 - December 2023\n\n**Restaurant management website**\n\nLink code: https://github.com/TienDat051102/BTL_PHP.git\n\nTeam Size: 4\n\nProject Description: The Restaurant Management Website is a web application designed to help restaurant owners streamline daily operations,\nimprove efficiency, and enhance customer service. The system provides various features, including order management, table reservations,\n\nmenu management, and sales tracking.",
+    "metadata": {
+      "source": "CV_DEV_TA.pdf",
+      "chunk_id": 2,
+      "chunk_size": 910
+    }
+  },
+  {
+    "content": "menu management, and sales tracking.\n\nKey Features:\n- Order Management: Enables staff to take, modify, and track customer orders.\n- Menu Management: Provides an interface to add, update, and remove menu items.\n- Sales & Revenue Tracking: Generates reports on daily and monthly sales performance.\n\nThe project was developed using PHP, ensuring a dynamic and scalable web solution. As the Team Leader, I was responsible for database\ndesign, developing the website's framework, assigning tasks, and implementing complex functionalities.\n\n**Project:** Tiến Đạt Restaurant Management Website | October - 2024 - December - 2024\n\n**Final Project**\n\nLink code: https://github.com/TienDat051102/DoAn_QuanLyNhaHang.git",
+    "metadata": {
+      "source": "CV_DEV_TA.pdf",
+      "chunk_id": 3,
+      "chunk_size": 708
+    }
+  },
+  {
+    "content": "**Final Project**\n\nLink code: https://github.com/TienDat051102/DoAn_QuanLyNhaHang.git\n\nDescription: The TienDat Restaurant Management Website is a comprehensive web-based system designed to streamline restaurant operations\nand enhance efficiency. This project aims to provide restaurant owners with a seamless solution for managing key aspects of their business,\nincluding menu management, table reservations, billing, and customer interactions.\n\nWith an intuitive interface and real-time data tracking, the system allows restaurant staff to:\n- Monitor table availability and optimize seating arrangements.\n- Manage menus dynamically, updating items and prices effortlessly.\n- Generate and track invoices, ensuring smooth billing operations.\n- Analyze revenue trends through graphical reports for data-driven decision-making.\n- Improve customer relationship management, offering a personalized dining experience.",
+    "metadata": {
+      "source": "CV_DEV_TA.pdf",
+      "chunk_id": 4,
+      "chunk_size": 912
+    }
+  },
+  {
+    "content": "Built with ReactJS for the front end and NodeJS (LoopBack 4) for the back end, the platform ensures high performance, scalability, and\nseamless API integration. The PostgreSQL database (non-relational model) is used for efficient data handling, making the system robust and\nadaptable to future enhancements.\n\n## SKILLS\n\n**Programming Languages:**\n- Node.js & ReactJS: Proficient in full-stack development using LoopBack 4 (Node.js) for backend APIs and ReactJS for building component-based UIs\n- C#: Basic experience with MVC architecture and web application development using C#\n- PHP: Familiar with basic PHP scripting and application structure\n\n**Databases:**\n- Familiar with PostgreSQL, MySQL, and SQL Server.\n\n**Tools:**\n- Basic knowledge of Power BI for data visualization and analysis.\n- Familiar with AI tools to optimize workflows and improve efficiency.",
+    "metadata": {
+      "source": "CV_DEV_TA.pdf",
+      "chunk_id": 5,
+      "chunk_size": 863
+    }
+  },
+  {
+    "content": "```markdown\n# SALVADOR SANZ\nEmbedded Software Engineer\nsalvador.sanz@email.com (123) 456-7890 Dover, DE\nLinkedIn\n\n## WORK EXPERIENCE\n**Senior Embedded Software Engineer**\nDice\n* 2019 - current Dover, DE\n* Contributed to the design of software system architecture to establish a stable foundation for 25+ applications\n* Managed 3 long-term development programs and 6 short-cycle custom design tasks\n* Owned 100% of technical leadership responsibilities for product feature research and development\n* Spearheaded all aspects of product development from system design to testing",
+    "metadata": {
+      "source": "SALVADOR_SANZ.pdf",
+      "chunk_id": 0,
+      "chunk_size": 575
+    }
+  },
+  {
+    "content": "**Software Engineer III, Embedded Systems**\nGoogle\n* 2015 - 2019 Dover, DE\n* Architected, implemented, and maintained 50+ complex firmware/software designs\n* Wrote clean, robust, testable, reusable, and sustainable code tailored for embedded systems\n* Worked with 4 multi-functional teams to determine software architecture and specifications\n* Developed and maintained 12+ engineering tools used to debug, analyze, and test embedded products\n\n**Research & Development Embedded Software Engineer**\nSuperpedestrian\n* 2011 - 2015 Dover, DE\n* Collaborated with 3 multidisciplinary teams to build verification plans, frameworks, tools, and tests\n* Architected and developed 10+ tools and infrastructures to support efficient building, debugging, and deployment\n* Reviewed and updated 300+ software requirements and designs for verifiability\n* Coordinated 100% of software testing resources (internal & external) and provided schedule estimates",
+    "metadata": {
+      "source": "SALVADOR_SANZ.pdf",
+      "chunk_id": 1,
+      "chunk_size": 939
+    }
+  },
+  {
+    "content": "## CAREER SUMMARY\nProven and hard-working\nembedded software engineer with\n10+ years of experience. My passion\nis combining clean and scalable\ncode with cutting-edge physical\nhardware, and I am eager to solve\ncreative problems for Oracle\nconsumers to create an improved\nuser experience.\n\n## EDUCATION\nBachelor of Science\nComputer Science\nCarnegie Mellon University\n* 2007 - 2011\n* Pittsburgh, PA\n\n## SKILLS\n* Python\n* Perl\n* RISC CPUA\n* Operating System Hardware\n* RTOS\n* JTAG/SWD\n* C/C++\n* QEMU\n```",
+    "metadata": {
+      "source": "SALVADOR_SANZ.pdf",
+      "chunk_id": 2,
+      "chunk_size": 498
+    }
+  },
+  {
+    "content": "```markdown\n# DAVID NGUYEN\nFreelance Software Engineer\n\n## CONTACT\nd.nguyen@email.com\n(123) 456-7890\nMadison, WI\nLinkedIn in\n\n## EDUCATION\nBachelor of Science\nComputer Science\nUniversity of Wisconsin\n2014-2018\nMadison, WI\n\n## SKILLS\nPython\nGit\nVisual Studio Code\nAmazon Web Services\nReact\nDjango\nMySQL\nTrello\nSelenium\nDocker\n\n## WORK EXPERIENCE\n### Freelance Software Engineer\nRaven Software\n2023 - current / Madison, WI\n* Advocated the use of Visual Studio Code to develop and deploy Python scripts that automated data processing tasks\n* Built cloud-based storage solutions handling over 12TB of data storage using AWS Lambda and S3\n* Implemented React-based user interfaces for internal tools\n* Managed version control using Git, contributing to 52 pull requests and stabilizing release cycles",
+    "metadata": {
+      "source": "DAVID_NGUYEN.pdf",
+      "chunk_id": 0,
+      "chunk_size": 795
+    }
+  },
+  {
+    "content": "### Junior Software Developer\nExact Sciences\n2020 - 2023 / Madison, WI\n* Engineered Django REST APIs for patient data system integration, handling 1,060+ queries/day\n* Contributed to knowledge-sharing sessions, helping new developers integrate into 13 members quickly\n* Automated testing workflows with Selenium, executing 342 tests across four browsers to ensure app reliability\n* Collaborated with team members using Trello to manage sprints, aiding the timely delivery of nine feature updates\n\n### IT Support Technician\nEpic Systems Corporation\n2018 - 2020 / Madison, WI\n* Administered Docker containers to streamline the deployment of test environments\n* Troubleshot and resolved hardware and software issues for 18 employees, trimming downtime by 18%\n* Conducted regular database management tasks in MySQL, optimizing performance for over 43 critical healthcare apps\n* Maintained detailed incident logs to track recurring issues and ensure quicker resolution in future cases\n```",
+    "metadata": {
+      "source": "DAVID_NGUYEN.pdf",
+      "chunk_id": 1,
+      "chunk_size": 983
+    }
+  },
+  {
+    "content": "```markdown\n# NGUYỄN TIẾN KHANG HUY\nMOBILE INTERN - ANDROID\n\n**CAREER OBJECTIVE:**\nAndroid intern focused on developing programming skills on the Android\nplatform using Kotlin and Java, contributing to real-world projects, and refining\npersonal skills throughout the internship.\n\n###\n0943185411\n27/10/2003\nH.Hoài Đức, TP Hà Nội\nhuyhuy271003@gmail.com\nhttps://github.com/khanghuy2003\n\n## TECHNICAL SKILLS\n**Programming Languages:**\n- Kotlin\n- Java\n- XML\n\n**Development Tools:**\n- Android Studio\n- SQLite\n- MySQL\n- FireBase\n- Genymotion\n\n**Architectures and Development Models:**\n- OOP (Object-Oriented Programming)\n- MVC (Model-View-Controller)\n- MVVM (Model-View-ViewModel)\n\n## ENGLISH\nBasic English level, able to listen and\nread English texts.\n\n## EDUCATION\n**HANOI UNIVERSITY OF NATURAL RESOURCES AND ENVIRONMENT**\nMajor: Information Technology\n08/2021 - 06/2025\n4th year student, completed all school courses",
+    "metadata": {
+      "source": "Mobile Developer Intern - Android.pdf",
+      "chunk_id": 0,
+      "chunk_size": 912
+    }
+  },
+  {
+    "content": "## PROJECT\n**HUY'S COFFEE SHOP - ONLINE DRINK ORDERING APP**\nLink: https://github.com/khanghuy2003/android-\nproject\n09/2024 - 11/2024\nNumber of project members: 1 member.\n\n**Project Overview:**\nThe application allows customers to order drinks online on their phones\nwithout having to go directly to the store, and can also manage their\nshopping cart and view details of the orders they have placed.\n\n**Technology Stack:**\n- Programming Languages: Kotlin (primary), XML for UI layout\n- Database & Cloud Services: Firebase Realtime Database for real-time\ndata synchronization, Firebase Authentication for secure user login,\nFirebase Storage for image handling.\n- Libraries and Tools: Android Studio (IDE), Genymotion for testing, Glide\nfor image loading.",
+    "metadata": {
+      "source": "Mobile Developer Intern - Android.pdf",
+      "chunk_id": 1,
+      "chunk_size": 752
+    }
+  },
+  {
+    "content": "**Key Features:**\n- Product Browsing and Categorization: Displays items with images,\nnames, prices, and descriptions. Users can filter products by category and\nview top-selling items.\n- Cart Management: Users can add items to their cart, with options to\nadjust quantity, size, and toppings. If an item already exists in the cart, it\nupdates the quantity and price instead of adding duplicates.\n- Order Processing: Provides an order placement system where users\nenter recipient details. Orders are saved to Firebase, along with order date,\ntime, and status.\n- User Authentication: Features login, registration, and logout options to\nsecure and personalize user sessions.\n- Data Management: Users can add, edit, or delete products, manage\norders, and view order history.\n```",
+    "metadata": {
+      "source": "Mobile Developer Intern - Android.pdf",
+      "chunk_id": 2,
+      "chunk_size": 772
+    }
+  },
+  {
+    "content": "# Phạm Quốc Anh\nTHỰC TẬP SINH IOS SWIFT\n\nNgắn hạn : Trong một năm tới trở thành lập trình viên ios ở mức junior có thể vận dụng các kiến thức đã được trau dồi và không ngừng học hỏi để phát triển bản cũng như hoàn thành tốt nhất công việc được giao. Mong muốn được gắn bó và trở thành nhân viên kì cựu trong công ty.\n\nDài hạn : Trong 4 -5 năm tới trở thành lập trình viên ios ở mức Senior đảm nhiệm những dự án lớn và mang lại trải nhiệm tốt nhất cho khách .\n\n## THÔNG TIN CÁ NHÂN\n\n*   quocanhp61@gmail.com\n*   0382845790\n*   [https://www.facebook.com/quocanh.lpham](https://www.facebook.com/quocanh.lpham)\n*   Ngõ 134/22 đường Cầu Diễn Quận Bắc Từ Liêm\n\n## HỌC VẤN\n\nĐẠI HỌC CÔNG NGHIỆP HÀ NỘI\nNGHÀNH KĨ THUẬT PHẦN MỀM\n10/2020 - 06/2024\nVừa tốt nghiệp - GPA : 2.8/4.0\n\n## SKILLS\n\n### SWIFT\nBiết cơ bản về swift có thể làm việc và tạo 1 số ứng dụng cơ bản bằng swift và có thể làm việc được với 1 số api đơn giản đã thực tập 3 tháng với swift",
+    "metadata": {
+      "source": "CV Phạm Quốc Anh - cv ios.pdf",
+      "chunk_id": 0,
+      "chunk_size": 941
+    }
+  },
+  {
+    "content": "### MỘT SỐ KĨ NĂNG KHÁC\nHiểu biết về html css, js làm việc với react js\nLink code:\n\n*   [https://github.com/quocanhp010102/fututeLoveAdminMain](https://github.com/quocanhp010102/fututeLoveAdminMain)\n*   [https://github.com/quocanhp010102/webcover.github.io](https://github.com/quocanhp010102/webcover.github.io)\n*   [https://github.com/quocanhp010102/sapoweb.github.io](https://github.com/quocanhp010102/sapoweb.github.io)\n\nLink page:\n\n*   [https://quocanhp010102.github.io/webcover.github.io/](https://quocanhp010102.github.io/webcover.github.io/)\n*   [https://quocanhp010102.github.io/sapoweb.github.io/](https://quocanhp010102.github.io/sapoweb.github.io/)\n\n### MỘT SỐ PROJECT VỀ SWIFT",
+    "metadata": {
+      "source": "CV Phạm Quốc Anh - cv ios.pdf",
+      "chunk_id": 1,
+      "chunk_size": 688
+    }
+  },
+  {
+    "content": "### MỘT SỐ PROJECT VỀ SWIFT\n\n*   [https://github.com/quocanhp010102/duantiktokdoan](https://github.com/quocanhp010102/duantiktokdoan)\n    demo: [https://www.youtube.com/watch?v=BZha6F5fuk](https://www.youtube.com/watch?v=BZha6F5fuk)\n*   [https://github.com/quocanhp010102/bmicaculator](https://github.com/quocanhp010102/bmicaculator)\n*   [https://github.com/quocanhp010102/xylophone](https://github.com/quocanhp010102/xylophone)\n\n## KINH NGHIỆP LÀM VIỆC\n\n*   20/11/2023 - 20/2/2024 THINKDIFF\n    *   THỰC TẬP SINH IOS\n    *   Học hỏi và phát triển ứng dụng cho công ty bằng swift\n\n## DỰ ÁN NHÓM",
+    "metadata": {
+      "source": "CV Phạm Quốc Anh - cv ios.pdf",
+      "chunk_id": 2,
+      "chunk_size": 594
+    }
+  },
+  {
+    "content": "## DỰ ÁN NHÓM\n\n*   08/01/2024 - 25/02/2024 funnyface\n    *   VỊ TRÍ: THỰC TẬP LẬP TRÌNH VIÊN IOS\n    *   Đợi API và DESIGN rồi viết mã tạo app IOS\n    *   CÔNG NGHỆ SỬ DỤNG : XCODE, GITHUB,SWIFT\n    *   Dùng xcode code swift trên đó rồi lưu vào github\n*   10/6/2023 - 10/7/20203\n    *   Dự án làm web bán ĐIỆn thoại bằng react js và mongodb\n    *   Số lượng thành viên 5\n    *   VAI TRÒ: CODE GIAO DIỆN\n    *   Code giao diện của trang web\n    *   CÔNG NGHỆ SỬ DỤNG : MONGODB APP, VS CODE, GITHUB\n    *   Viết mã bằng vs code sau đó lưu vào github và kết nối csdl bằng mongodb\n\n## THÔNG TIN THÊM\n\nĐây là link github: [https://github.com/quocanhp010102?tab=overview&from=2023-03-01&to=2023-03-31](https://github.com/quocanhp010102?tab=overview&from=2023-03-01&to=2023-03-31)\n\n## SỞ THÍCH\n\nĐá bóng, thể thao, code, chơi game",
+    "metadata": {
+      "source": "CV Phạm Quốc Anh - cv ios.pdf",
+      "chunk_id": 3,
+      "chunk_size": 822
+    }
+  },
+  {
+    "content": "```markdown\n# LE HOANG VU\nAI ENGINEER INTERN\n\n## CONTACT\n*   0362511450\n*   niemhoalongvu@gmail.com\n*   https://github.com/vuniem131104\n*   Dich Vong Hau, Cau Giay, Ha Noi\n\n## TECHNICAL SKILLS\n*   **Programming Languages:** Python, Java, C++, Javascipt\n*   **Machine Learning & Deep Learning:** PyTorch, TensorFlow, Scikit-Learn, XGBoost, Pandas, Numpy\n*   **Computer Vision:** Detectron2, OpenCV, Ultralytics, OCR, Torchvision, Torch\n*   **NLP & LLMS:** Langchain, Huggingface, Smolagents\n*   **MLOps:** MLflow, DVC, Airflow\n*   **Database:** MySQL, PostgreSQL, MongoDB, Redis\n*   **Deployment:** FastAPI, Docker, AWS\n*   **OTHER SKILLS**\n    *   Math and Probability & Statistics\n    *   English Communication\n    *   Reading Al Papers\n    *   Microsoft Office\n    *   Creative, Problem-Solving",
+    "metadata": {
+      "source": "LeHoangVu_CV_v4.pdf",
+      "chunk_id": 0,
+      "chunk_size": 796
+    }
+  },
+  {
+    "content": "## OBJECTIVE\nA highly motivated IT student with hands-on experience in Al and MLOps projects. Seeking an Al Engineer Internship to apply technical skills in real-world systems and gain practical knowledge of deploying Al solutions at scale.\n\n## EDUCATION\n**University of Engineering & Technology (VNU-UET)**\nInformation Technology | September 2022 - now\n*   Semester: 6/8\n*   CPA: 3.63\n\n## WORKING EXPERIENCE\n**FINPROS INVESTMENT JOINT STOCK COMPANY**\nPosition: Al Engineer Intern | 28/06/2024 - 28/08/2024\n*   Developed an Al-powered automated stock trading bot\n*   Collecting stock market data from major exchanges\n\n## PROJECT EXPERIENCE\n**Anomaly Detection in Complex Indoor Surveillance | Group Work: 6 people (Private Repository)**",
+    "metadata": {
+      "source": "LeHoangVu_CV_v4.pdf",
+      "chunk_id": 1,
+      "chunk_size": 736
+    }
+  },
+  {
+    "content": "*   [https://github.com/cuongtv312/anomaly-detection](https://github.com/cuongtv312/anomaly-detection)\n*   **Brief:** Developed a system for real-time anomaly detection in complex indoor surveillance using deep learning and computer vision.\n*   **Techs:**\n    *   Libraries such as: Pytorch, Ultralytics, OpenCV, Redis, Supervision, Milvus,...\n    *   PostgreSQL and Milvus to store data.\n*   **Main Tasks:**\n    *   Developed a branch to detect actions from people within video by fine-tuning ActionCLIP\n    *   Improved performance of YOLO and DeepSORT to detect and track people\n    *   Used Milvus to store the vector embeddings serving later for detecting abnormal actions\n\n## CERTIFICATES\n*   IELTS 7.0\n*   Generative Al\n*   PyTorch for Deep Learning Bootcamp\n*   The Second Prize For Scientific Research Conference for Undergraduates 2025 at UET-FIT\n*   An Asynchronous Framework for Action Classification from Indoor Surveillance Camera",
+    "metadata": {
+      "source": "LeHoangVu_CV_v4.pdf",
+      "chunk_id": 2,
+      "chunk_size": 944
+    }
+  },
+  {
+    "content": "## AWARD\n*   Top 10 National High School Exam for A01 Group 2021-2022\n*   First Prize in the Provincial Mathematics Excellent Student Competition | 12th grade of high school\n\n## Resume Evaluation Based On LLMs | Individual Project\n*   [https://github.com/vuniem131104/Resume-Evaluation-Based-On-LLMs](https://github.com/vuniem131104/Resume-Evaluation-Based-On-LLMs)\n*   Brief: Built an asynchronous resume evaluation system using LLMs to provide automated and personalized feedback via virtual interviews.\n*   Techs:\n    *   Libraries such as: Langchain, Huggingface, ...\n    *   LLMs including LLama4, Qwen 2.5\n    *   Redis, FastAPI, PostgreSQL, AWS\n*   Main Tasks:\n    *   Built an asynchronous resume evaluation system using FastAPI and Redis\n    *   Integrated LLMs to analyze resumes and job descriptions for tailored feedback\n    *   Developed a web interface for file upload, evaluation, and real-time result tracking",
+    "metadata": {
+      "source": "LeHoangVu_CV_v4.pdf",
+      "chunk_id": 3,
+      "chunk_size": 925
+    }
+  },
+  {
+    "content": "## Flowers Colorization Using DDPM | Individual Project\n*   [https://github.com/vuniem131104/Flowers-Colorization-Using-DDPM](https://github.com/vuniem131104/Flowers-Colorization-Using-DDPM)\n*   Brief: Applied Denoising Diffusion Probabilistic Models (DDPM) for automatic colorization of grayscale flower images.\n*   Techs:\n    *   Libraries such as PyTorch, Torchvision, NumPy,...\n    *   MLflow for experiment tracking and pipeline management\n    *   Modular MLOps pipeline with data preprocessing, model training, and evaluation stages\n*   Main Tasks:\n    *   Designed and trained a DDPM-based generative model to colorize flower images\n    *   Built a reproducible MLOps pipeline for preprocessing, training, and logging experiments\n```",
+    "metadata": {
+      "source": "LeHoangVu_CV_v4.pdf",
+      "chunk_id": 4,
+      "chunk_size": 740
+    }
+  },
+  {
+    "content": "```markdown\n# LEANDER HARTMAN\nLead Software Engineer\nl.hartman@email.com (123) 456-7890 Philadelphia, PA\nLinkedIn\n\n## WORK EXPERIENCE\nLead Software Engineer\nComcast\n* 2020 - current Philadelphia, PA\n* Led a team of 9 engineers to adopt Bitbucket for version control, lowering merge conflicts by 39%.\n* Supervised two major version control migrations for a team of 78, making code collaboration 41% easier on average according to feedback.\n* Held 4 internal workshops on cloud technologies and current regulatory practices, enhancing team knowledge.\n* Integrated CircleCI for continuous integration/continuous deployment (CI/CD), which allowed the team to quicken release cycles by 27 hours.",
+    "metadata": {
+      "source": "LEANDER_HARTMAN.pdf",
+      "chunk_id": 0,
+      "chunk_size": 690
+    }
+  },
+  {
+    "content": "Software Engineer\nAppian\n* 2018 - 2020 Philadelphia, PA\n* Assisted in porting multiple applications to a cloud environment, reducing operational costs by $12,436 and maintaining a 98.9% uptime.\n* Automated repetitive tasks using Python scripts, saving 209 manual work hours annually.\n* Ran weekly performance testing sessions on critical software components, fixing major bugs that improved system throughput by 61%.\n* Developed and deployed 17 serverless functions with Google Cloud Functions, resulting in 23-minute improvement in response times.",
+    "metadata": {
+      "source": "LEANDER_HARTMAN.pdf",
+      "chunk_id": 1,
+      "chunk_size": 548
+    }
+  },
+  {
+    "content": "Technical Support Engineer\nUPMC\n* 2016 - 2018 Pittsburgh, PA\n* Organized a hospital-wide training program on Zoom, remotely teaching 54 staff members about the use of a new system.\n* Conducted performance testing using Apache JMeter to identify key bottlenecks that were making the patient record system slower by 31%.\n* Used Wireshark for network analysis, successfully resolving 91% of network issues within the first 21 hours of reporting.\n* Worked with the clinical team to visualize 112 patient flow processes using draw.io.\n\n## EDUCATION\nMaster of Science\nSoftware Engineering\nCarnegie Mellon University\n* 2018 - 2020\n* Pittsburgh, PA\n\nBachelor of Science\nComputer Science\nCarnegie Mellon University\n* 2011 - 2015\n* Pittsburgh, PA\n\n## SKILLS\n* draw.io\n* Microsoft Project\n* Bitbucket\n* Oracle Enterprise Manager\n* Istio\n* CircleCI\n* Apache JMeter\n* Wireshark\n* Google Cloud Functions\n* Zoom\n```",
+    "metadata": {
+      "source": "LEANDER_HARTMAN.pdf",
+      "chunk_id": 2,
+      "chunk_size": 900
+    }
+  },
+  {
+    "content": "```markdown\n# RENATA VOSS\nDIRECTOR OF SOFTWARE ENGINEERING\n\n## CONTACT\nr.voss@email.com\n(123) 456-7890\nSan Jose, CA\nLinkedIn in\nGithub\n\n## EDUCATION\nBachelor of Science\nSoftware Engineering\nCalifornia Institute of\nTechnology\n2006 - 2010\nPasadena, СА\n\n## SKILLS\nJIRA\nAmazon Web Services\n(AWS)\nJenkins\nTensorFlow\nSpring Boot\nApache Hadoop\nIDPS\nReact Native\nSelenium\nOracle\n\n## WORK EXPERIENCE\n**Director of Software Engineering**\nAdobe\n2019 - current / San Jose, CA\n* Managed cross-functional team on Jira, increasing production velocity by 23%\n* Integrated IDPS into systems, which decreased instances of successful socially engineered attacks to less than 1%\n* Boosted processes through Jenkins-backed workflows that improved the quality of outcomes by a 54% margin\n* Achieved a 97% Net Promoter Score and a 4.7 out of 5 rating from end users for error-free end products",
+    "metadata": {
+      "source": "RENATA_VOSS.pdf",
+      "chunk_id": 0,
+      "chunk_size": 870
+    }
+  },
+  {
+    "content": "**Senior Engineering Manager**\nPayPal\n2014 - 2019 / San Jose, CA\n* Resolved app incompatibility issues with some mobile devices using AWS, reducing user-reporting incidences by 92%\n* Incorporated agile best practices into core processes, which reduced average production cycle time by 17% across projects\n* Decreased mobile app density defects by 31% by integrating React Native UI elements\n* Worked within budget and timelines to deliver user-eccentric solutions and maintained a user satisfaction rating of 94% through customer feedback surveys",
+    "metadata": {
+      "source": "RENATA_VOSS.pdf",
+      "chunk_id": 1,
+      "chunk_size": 546
+    }
+  },
+  {
+    "content": "**Principal Software Engineer**\nIntel\n2010 - 2014 / Santa Clara, CA\n* Optimized storage and dataset processing through Apache Hadoop, resulting in a 47% increase in concurrent user capacity.\n* Automated web applications testing across browsers with Selenium that shrank user-reported defects by 68%\n* Led a team of 4 software engineers to create and upgrade databases on Oracle with a consistent 98% on-time delivery rate\n* Implemented cloud infrastructure optimizations, which decreased monthly hosting costs by 28% and boosted system reliability\n```",
+    "metadata": {
+      "source": "RENATA_VOSS.pdf",
+      "chunk_id": 2,
+      "chunk_size": 551
+    }
+  },
+  {
+    "content": "```markdown\nSamuel Cook\nSoftware Engineer\ns.cook@email.com\n(123) 456-7890\nChicago, IL\nLinkedIn\n\n## WORK EXPERIENCE\nSoftware Engineer\nApple\nChicago, IL | 2024 - current\n* Developed and deployed containerized applications using Kubernetes, managing 34 microservices across multiple cloud environments\n* Automated unit tests with JUnit for 27 critical application components, improving code quality and cutting defects by 48%\n* Collaborated on defining project requirements and delivering scalable software solutions within tight deadlines\n* Built a PostgreSQL database schema, ensuring data integrity for 100K user records and optimizing query performance",
+    "metadata": {
+      "source": "Samuel_Cook.pdf",
+      "chunk_id": 0,
+      "chunk_size": 653
+    }
+  },
+  {
+    "content": "Frontend Developer\nGoogle\nChicago, IL | 2021 - 2024\n* Engineered responsive user interfaces using Angular and JavaScript, enhancing UI for 2M active users on the Google Workspace\n* Streamlined data flow between client-side apps and backend services across 9 projects, through Flask-based API integration\n* Utilized Microsoft Azure to deploy and manage frontend applications, expediting deployment for CI/CD pipelines by 32%\n* Collaborated with backend developers via GitHub, contributing to 56 pull requests and maintaining consistent code quality\n\nHelp Desk Technician\nWalgreens\nEvanston, IL | 2019 - 2021\n* Handled 306 customer service tickets per month, maintaining a 98% response time compliance\n* Diagnosed and resolved software-related conflicts with PyCharm, assisting in the debugging of over 52 internal apps\n* Supported 57 staff with hardware, software, and network issues\n* Delivered training to 19 new employees on troubleshooting procedures and company IT systems",
+    "metadata": {
+      "source": "Samuel_Cook.pdf",
+      "chunk_id": 1,
+      "chunk_size": 976
+    }
+  },
+  {
+    "content": "## SKILLS\n* Kubernetes\n* JUnit\n* Jira\n* PostgreSQL\n* Flask\n* Angular\n* Microsoft Azure\n* PyCharm\n* GitHub\n* JavaScript\n\n## EDUCATION\nBachelor of Science\nComputer Science\nNorthwestern\nUniversity\n2015-2019\nEvanston, IL\n```",
+    "metadata": {
+      "source": "Samuel_Cook.pdf",
+      "chunk_id": 2,
+      "chunk_size": 220
+    }
+  },
+  {
+    "content": "Intern Backend Java\n\n## Mục tiêu nghề nghiệp\n\nNgắn hạn: Tìm kiếm cơ hội tham gia vào ngành lập trình, có tinh thần ham học hỏi và áp dụng kiến thức vào môi trường làm việc thực tế.\nDài hạn: Nâng cao trình độ chuyên môn hiện đang có, phấn đấu khám phá và áp dụng các công nghệ mới để phù hợp với yêu cầu ngày càng tăng của các sáng kiến phát triển của công ty.\n\n## Thông tin cá nhân\n\n*   Nam\n*   gmail.com\n*   https://www.facebook.com/profile.php?id=100038518763\n*   Tân Triều, Thanh Trì, Hà Nội\n\n## Học vấn\n\nHọc viện kĩ thuật mật mã 2022-2027\nCông nghệ thông tin\nGPA: 3.1\n\n## Kinh nghiệm làm việc (chưa có kinh nghiệm)\n\n*   -\n\n## Hoạt động\n\n*   Tham gia cuộc thi Tech Club Championship 2023 do trường PTIT tổ chức\n\n## Các kỹ năng\n\n**Java**\nSử dụng thành thạo java 21\n\n**SQLServer/MySQL**\nBiết sử dụng SQLServer và MySQL\n\n**Ngoại ngữ**\nĐọc hiểu tiếng anh cơ bản và chuyên ngành\n\n**Năng lực**\nKhả năng đóng góp và làm việc nhóm hiệu quả\nCó khả năng tự học và làm việc tốt\n\n## Dự án cá nhân",
+    "metadata": {
+      "source": "cv (1).pdf",
+      "chunk_id": 0,
+      "chunk_size": 987
+    }
+  },
+  {
+    "content": "## Dự án cá nhân\n\nGithub: https://github.com/hoangtuyen04work/socialnetwork\nCông nghệ: Java core, JWT Token, Spring data JPA, Spring Boot, Spring Security, Feign client, Google OAuth2, MySQL\nChức năng:\n\n*   Đăng nhập, đăng kí, đăng xuất, đăng nhập bằng tài khoản google\n*   CRUD bài viết\n*   Theo dõi, kết bạn, bình luận, thích bài viết, bình luận\n*   Nhắn tin, gửi thông báo về email\n\n## Sở thích\n\nHọc code\n\n## Điểm mạnh\n\nTư duy logic, khám phá những kiến thức mới\nBiết sắp xếp thời gian hiệu quả\nNhanh chóng làm quen với công việc và kiến thức mới",
+    "metadata": {
+      "source": "cv (1).pdf",
+      "chunk_id": 1,
+      "chunk_size": 549
+    }
+  },
+  {
+    "content": "```markdown\n# HOANG HUU TUYEN\nINTERN JAVA\n\n## OBJECTIVE\nI am seeking a Java Back-end Developer job to apply my Java and Spring framework knowledge. I\naim to contribute meaningfully to projects, gaining hands-on experience in the software\ndevelopment lifecycle. This job will be a stepping stone to becoming a proficient Java Backend\nDeveloper within two years and a seasoned Java Web Application Developer in five.\n\n## EDUCATION\nAcademy Of Cryptography Techniques 2022 - Present\nMajor\n*   Information technology\nGPA: 3.12\n\n## SKILL\nTechnical skills\n*   Language and framework: Java (Spring Boot), JavaScript(React), HTML, CSS.\n*   Analysis and design database (MySQL).\n*   Develop Resful API app service with Spring Boot.\n*   Authentication and authorization with Spring Security.\n\n## PROJECT EXPERIENCE\nSocial media (team size 1) May - July 2024\nDescription\n*   A basic website social media, which everyone can use to connect, share their story,\nupload their information.",
+    "metadata": {
+      "source": "cv (2) - Copy.pdf",
+      "chunk_id": 0,
+      "chunk_size": 972
+    }
+  },
+  {
+    "content": "Backend\n*   Technology: Java Spring Boot, Spring Data JPA, Spring Security, MySQL, OpenFeign, AWS S3,\nJWT, MapStruct, Lombok.\n*   Function : Login, logout, signup, upload post, like, comment, add friend, unfriend, check\nprofile, search, send email.\n*   Result : https://github.com/hoangtuyen04work/socialnetwork-v2.git\n\nFrontend\n*   Technology: React, HTML, CSS\n*   Function : Login, logout, signup, upload post, like, comment, add friend, unfriend, check\nprofile, search.\n*   Result : https://github.com/hoangtuyen04work/react-social.git\n\n## INTEREST & ACTIVITIES\n*   Reading books\n*   Plays game\n*   Traveling\n```",
+    "metadata": {
+      "source": "cv (2) - Copy.pdf",
+      "chunk_id": 1,
+      "chunk_size": 615
+    }
+  },
+  {
+    "content": "```markdown\n# NGUYỄN KHẮC HOA LƯ\nLẬP TRÌNH VIÊN .NET / VUE.JS\n\n## MỤC TIÊU NGHỀ NGHIỆP\nLà một lập trình viên C# .NET và Vue.js đầy tiềm năng, hiện đang theo học chuyên ngành Phát triển Phần mềm tại BachKhoa-Aptech. Tôi mong muốn áp dụng các kỹ năng kỹ thuật của mình vào các dự án thực tế và đóng góp vào môi trường làm việc năng động. Tập trung vào cả phát triển backend và frontend, tôi mong muốn xây dựng các ứng dụng web có khả năng mở rộng với các công nghệ hiện đại như ASP.NET Core và Vue.js.\n\n## DỰ ÁN",
+    "metadata": {
+      "source": "NguyenKhacHoaLu_Vi (1) (1).pdf",
+      "chunk_id": 0,
+      "chunk_size": 509
+    }
+  },
+  {
+    "content": "### HỆ THỐNG QUẢN LÝ IN ẤN\nThời gian: 2023\n* Mô tả: Một hệ thống Print Management System dựa trên web để quản lý dịch vụ in ấn, bao gồm các yêu cầu in, thiết kế dự án, và các giai đoạn giao hàng. Hệ thống tự động hóa quy trình làm việc và cung cấp cập nhật thời gian thực cho người dùng, cải thiện giao tiếp và hiệu quả xử lý.\n* Chức năng:\n    * Authentication and Authorization: Đăng nhập, đăng ký, và quản lý mật khẩu sử dụng JWT.\n    * User Profile Management: Cập nhật thông tin cá nhân và cài đặt thông báo.\n    * Task Management: Các thao tác CRUD cho tác vụ, thông báo tự động, tìm kiếm, và phân quyền.\n    * Workflow Automation: Tự động chuyển đổi trạng thái qua các giai đoạn của dự án.\n* Công nghệ sử dụng: ASP.NET Core .Net 8, Entity Framework Code First, Vue.js 3, Vuetify, Vue Router, Axios\n* Trách nhiệm:\n    * Phát triển RESTful APIs cho logic phía backend.\n    * Tạo các thành phần giao diện người dùng tương tác bằng Vue.js.",
+    "metadata": {
+      "source": "NguyenKhacHoaLu_Vi (1) (1).pdf",
+      "chunk_id": 1,
+      "chunk_size": 941
+    }
+  },
+  {
+    "content": "* Tạo các thành phần giao diện người dùng tương tác bằng Vue.js.\n    * Thiết kế sơ đồ cơ sở dữ liệu và quản lý migrations.\n    * Triển khai quản lý workflow và phân quyền cho các tác vụ.\n* Links:\n    * Backend: [PrintM Web API on GitHub](PrintM Web API on GitHub)\n    * Frontend: [ProjectM Frontend on GitHub](ProjectM Frontend on GitHub)",
+    "metadata": {
+      "source": "NguyenKhacHoaLu_Vi (1) (1).pdf",
+      "chunk_id": 2,
+      "chunk_size": 338
+    }
+  },
+  {
+    "content": "### HỆ THỐNG QUẢN LÝ CỬA HÀNG SÁCH\nThời gian: 2023\n* Mô tả: Bookstore Management System giúp quản lý kho sách, đơn hàng khách hàng và nâng cao giao tiếp với khách hàng. Hệ thống bao gồm quản lý sản phẩm, giao dịch bán hàng, và dịch vụ nhắn tin thời gian thực.\n* Chức năng:\n    * User Authentication: Đăng nhập, đăng ký và xác thực email sử dụng JWT.\n    * Inventory Management: Thực hiện các thao tác CRUD cho quản lý sách, theo dõi đơn hàng và lịch sử giao dịch.\n    * Messaging System: Hỗ trợ nhắn tin riêng tư và tạo phòng chat để giao tiếp tốt hơn.\n    * Order Management: Theo dõi tình trạng đơn hàng từ giỏ hàng, thanh toán đến giao hàng.\n* Công nghệ sử dụng: ASP.NET Core .Net 8, Entity Framework Code First\n* Trách nhiệm:\n    * Phát triển logic backend cho quản lý người dùng và xử lý đơn hàng.\n    * Thiết kế sơ đồ cơ sở dữ liệu và thực hiện các thao tác dữ liệu.\n    * Xây dựng logic nghiệp vụ cho các giao dịch và kiểm soát kho.",
+    "metadata": {
+      "source": "NguyenKhacHoaLu_Vi (1) (1).pdf",
+      "chunk_id": 3,
+      "chunk_size": 939
+    }
+  },
+  {
+    "content": "* Xây dựng logic nghiệp vụ cho các giao dịch và kiểm soát kho.\n    * Quản lý quy trình xử lý đơn hàng để cải thiện trải nghiệm người dùng.\n* Links: [GitHub - Bookstore Management System](GitHub - Bookstore Management System)",
+    "metadata": {
+      "source": "NguyenKhacHoaLu_Vi (1) (1).pdf",
+      "chunk_id": 4,
+      "chunk_size": 224
+    }
+  },
+  {
+    "content": "## THÔNG TIN\n0967249201\nNguyenKhacHoaLu@gmail.com\nHoai Duc, Ha Noi\nGithub\n\n## KỸ NĂNG\n### Frontend\n* Vue.js 3: Thành thạo xây dựng các ứng dụng web có tính tương tác cao bằng Vuetify và quản lý định tuyến bằng Vue Router.\n* AngularJS (AJS): Có kinh nghiệm phát triển ứng dụng single-page và tích hợp REST APIs.\n\n### Backend\n* ASP.NET Core .Net 8: Có khả năng tạo RESTful APIs, quản lý logic phía server và tích hợp Entity Framework Code First.\n* Spring Hibernate Framework (SHF): Có kinh nghiệm với logic ứng dụng phía server và quản lý ORM cho các dự án Java.\n* PHP & MySQL: Kiến thức cơ bản về lập trình phía server và quản lý cơ sở dữ liệu cho ứng dụng web.\n\n### Database\n* SQL: Hiểu rõ về cơ sở dữ liệu quan hệ, bao gồm mô hình hóa dữ liệu, truy vấn phức tạp và các thao tác CRUD.",
+    "metadata": {
+      "source": "NguyenKhacHoaLu_Vi (1) (1).pdf",
+      "chunk_id": 5,
+      "chunk_size": 784
+    }
+  },
+  {
+    "content": "### Phát Triển Ứng Dụng Web và Mobile\n* HTML5 & CSS: Thành thạo thiết kế giao diện web hiện đại và đáp ứng.\n* Java Desktop Application Development (JDAD): Có khả năng phát triển và quản lý các ứng dụng desktop.\n* Android Development: Có kinh nghiệm phát triển ứng dụng di động trên Android.\n\n### Tools and Technologies\n* Vuetify: Sử dụng để thiết kế các thành phần Ul trong dự án Vue.js.\n* Axios: Quản lý yêu cầu HTTP và tích hợp APIs trong phát triển frontend.\n* Entity Framework Code First: Sử dụng để quản lý dữ liệu và thực hiện migrations.\n\n### KỸ NĂNG MỀM\n* Hợp tác nhóm: Hiệu quả trong môi trường làm việc nhóm, hỗ trợ quá trình phát triển thông qua sự tích hợp nhóm.\n* Giải quyết vấn đề: Khả năng phân tích và giải quyết các vấn đề kỹ thuật một cách hiệu quả.\n* Thích nghi: Học hỏi nhanh và áp dụng các công nghệ mới để đáp ứng yêu cầu của dự án.\n\n## HỌC VẤN\nBachKhoa-Aptech\nSoftware Development\n09/2019 – Hiện tại\nGPA: 3.24\n```",
+    "metadata": {
+      "source": "NguyenKhacHoaLu_Vi (1) (1).pdf",
+      "chunk_id": 6,
+      "chunk_size": 936
+    }
+  },
+  {
+    "content": "```markdown\n# Dương Hồng Đức\nFresher Web Developer\n\n## THÔNG TIN CÁ NHÂN\n0764181652\nduc2022004@gmail.com\nMinh Khai, Bắc Từ Liêm, Hà Nội\nhttps://github.com/duonghongduc2k4\n\n## MÔ TẢ\n• Có thể làm việc toàn thời gian tại doanh nghiệp (Nhà trường tạo điều kiện cho học online ngoài giờ hành chính trong năm cuối theo chương trình đào tạo)\n\n## MỤC TIÊU NGHỀ NGHIỆP\n**Ngắn hạn:**\n• Trong 3 - 6 tháng làm việc trong môi trường trẻ trung, chuyên nghiệp để phát triển kiến thức và kỹ năng, đóng góp vào sự phát triển của doanh nghiệp.\n• Sau 2 năm trở thành một Junior Developer.\n**Dài hạn:**\n• Sau 5 năm trở thành một Full Stack Developer chuyên nghiệp.",
+    "metadata": {
+      "source": "CV Dương Hồng Đức - CV1_Backend_DuongHongDuc-TopCV.vn (3).pdf",
+      "chunk_id": 0,
+      "chunk_size": 644
+    }
+  },
+  {
+    "content": "## KỸ NĂNG\n**Kiến thức ngôn ngữ lập trình:**\n• Java, Spring Boot, Spring MVC, RESTful API và MySQL\n• JavaScript, HTML5, CSS, Bootstrap và ReactJS\n**Quản lý mã nguồn:** Github\n**Kỹ năng mềm:**\n• Thành thạo kỹ năng HORENSO\n• Quản lý công việc theo bảng Kanban\n• Làm việc nhóm theo mô hình Scrum\n**Sử dụng công cụ:**\n• Visual Studio Code, Intellij IDEA\n• MySQL Workbench, Postman\n**Tiếng Anh:**\n• Đọc hiểu tài liệu tiếng anh cơ bản\n\n## HỌC VẤN\nTrường Đại học Thành Đô - Khoa CNTT CodeGym\n(09/2021 - Hiện tại) GPA: 2.83\n• Học offline bootcamp 8 tiếng/ ngày tại trường",
+    "metadata": {
+      "source": "CV Dương Hồng Đức - CV1_Backend_DuongHongDuc-TopCV.vn (3).pdf",
+      "chunk_id": 1,
+      "chunk_size": 563
+    }
+  },
+  {
+    "content": "## DỰ ÁN\n**Quản lý thuê nhà (Dự án nhóm)**\n(05/2004 - 06/2024)\n1. **Vai trò cá nhân:** Leader, Developer\n2. **Mô tả:**\n• Trang web cung cấp cho khách hàng một nền tảng đặt nhà dễ dàng và thuận tiện. Khách hàng có thể dễ dàng tìm kiếm, so sánh và đặt phòng tại hàng triệu khách sạn, căn hộ và chỗ lưu trú.\n3. **Công nghệ sử dụng:**\n• Back-end: Spring Boot, RESTful API, MySQL\n• Front-end: JavaScript, ReactJS, HTML5, CSS, Bootstrap\n4. **Công việc đã làm:**\n• Xây dựng chức năng xác nhận cho thuê nhà, hủy thuê nhà\n• Xây dựng chức năng tìm kiếm nhà theo tên nhà, địa chỉ, số phòng ngủ, phòng tắm, hay giá của ngôi nhà\n• Xây dựng chức năng đăng nhập và đăng ký\n• Xây dựng giao diện trang đặt nhà, chi tiết ngôi nhà, trang chủ của chủ nhà\n5. **Github:**\n• Back-end: https://github.com/duonghongduc2k4/agoda\n• Front-end: https://github.com/duonghongduc2k4/agoda-react",
+    "metadata": {
+      "source": "CV Dương Hồng Đức - CV1_Backend_DuongHongDuc-TopCV.vn (3).pdf",
+      "chunk_id": 2,
+      "chunk_size": 862
+    }
+  },
+  {
+    "content": "**Quản lý công việc theo Kanban (Dự án nhóm)**\n(10/2023 - 11/2023)\n1. **Vai trò cá nhân:** Developer\n2. **Mô tả:**\n• Trang web giúp người dùng quản lý công việc, theo dõi tiến độ công việc dựa theo phương pháp Kanban.\n3. **Công nghệ sử dụng:**\n• Back-end: JavaServlet, JSP, HttpSession, MySQL\n• Front-end: JavaScript, HTML5, CSS, Bootstrap\n4. **Công việc đã làm:**\n• Xây dựng chức năng quản lý tài khoản người dùng\n• Xây dựng chức năng đăng nhập, đăng ký\n• Xây dựng chức năng quản lý nhóm, bảng và thẻ\n• Xây dựng chức năng loại thành viên ra khỏi nhóm, cấp quyền cho thành viên\n• Xây dựng chức năng gán thành viên vào trong thẻ của bảng\n• Xây dựng giao diện trang chủ người dùng, bảng Kanban, thêm thành viên vào nhóm\n5. **Github:**\n• https://github.com/duonghongduc2k4/WorkManagement\n\n© topcv.vn\n```",
+    "metadata": {
+      "source": "CV Dương Hồng Đức - CV1_Backend_DuongHongDuc-TopCV.vn (3).pdf",
+      "chunk_id": 3,
+      "chunk_size": 800
+    }
+  },
+  {
+    "content": "```markdown\n# CAIUS KESSLER\nSoftware Engineer\nIntern\n*   ckessler@email.com\n*   (123) 456-7890\n*   Seattle, WA\n*   LinkedIn\n\n## CAREER OBJECTIVE\nHighly-driven computer science student with growing\nknowledge in Bitbucket, Oracle, and Java, seeking a software\nengineering internship at Microsoft. As a Microsoft Certified:\nAzure Developer Associate, I'm ready to contribute my passion\nand skills to help drive innovation as a global technology leader.",
+    "metadata": {
+      "source": "CAIUS_KESSLER.pdf",
+      "chunk_id": 0,
+      "chunk_size": 449
+    }
+  },
+  {
+    "content": "## WORK EXPERIENCE\n**Data Entry Specialist**\nExpedia Group\n*   May 2021 - current Seattle, WA\n*   Processed and entered 1,200+ travel records per week into Oracle databases.\n*   Utilized Java-based tools to import and export data, reducing data transfer time by 34%.\n*   Developed and deployed a Django-based web interface, increasing data accessibility for remote team by 22%.\n*   Generated data-driven insights, supporting key business decisions and driving a 6% increase in revenue.\n*   Gathered monthly reports on data entry metrics, helping strategic planning and resource allocation.\n\n## EDUCATION\nB.S.\nComputer Science\n**University of Washington**\n*   September 2020 - current\n*   Seattle, WA\n**Relevant courses**\n*   Computer Science I and II\n*   Discrete Mathematics\n*   Data Structures and Algorithms\n*   Computer Organization and Architecture\n*   Operating Systems\n\n## SKILLS\n*   Visual Studio\n*   Bitbucket\n*   Oracle\n*   Django\n*   Windows\n*   Java",
+    "metadata": {
+      "source": "CAIUS_KESSLER.pdf",
+      "chunk_id": 1,
+      "chunk_size": 961
+    }
+  },
+  {
+    "content": "## SKILLS\n*   Visual Studio\n*   Bitbucket\n*   Oracle\n*   Django\n*   Windows\n*   Java\n\n## PROJECTS\n**Tech Pursuit**\nCreator\n*   2020 - 2021\n*   Designed a robust database architecture utilizing Oracle, enhancing game performance by 38%.\n*   Streamlined game development process by integrating Visual Studio, reducing overall project time by 11%.\n*   Implemented version control and collaboration using Bitbucket, leading to a 21% decrease in code conflicts.\n*   Enhanced game character AI using Java, increasing positive user reviews by 29%.\n*   Conducted extensive playtesting and user feedback analysis every month, eliminating game bugs.\n\n## CERTIFICATIONS\n*   Microsoft Certified: Azure Developer Associate\n*   Oracle Certified Professional: Java SE 11 Developer\n\n## HOBBIES\n*   Food Photography\n*   Travel Photography\n*   Video editing and post production\n```",
+    "metadata": {
+      "source": "CAIUS_KESSLER.pdf",
+      "chunk_id": 2,
+      "chunk_size": 863
+    }
+  },
+  {
+    "content": "```markdown\n# CYNTHIA DWAYNE\n\nSoftware Developer\n\n## CONTACT\n\ncynthia@beamjobs.com\n(123) 456-7890\nBrooklyn, NY\nLinkedIn\nGithub\n\n## CAREER OBJECTIVE\n\nThroughout my 7-year-plus career as a software developer, I have focused on developing scalable and well-documented code. I enjoy working collaboratively but can also run with projects independently. Excited about the prospect of joining a product-driven company like Acme Corp.\n\n## WORK EXPERIENCE",
+    "metadata": {
+      "source": "CYNTHIA_DWAYNE.pdf",
+      "chunk_id": 0,
+      "chunk_size": 447
+    }
+  },
+  {
+    "content": "## WORK EXPERIENCE\n\n**Software Developer**\nQuickBooks\nJanuary 2017 - current / New York, NY\n*   Worked on the payments team to save time and improve cash flow for over 50,000 through the development of modern, responsive customer experiences\n*   Led the migration from AWS to GCP for the team to reduce cloud costs by $260,000 per year\n*   Worked closely with the product team to re-configure the processing of invoices, saving customers over 125,000 manual hours of work per month\n*   Mentored 3 junior front-end developers on the team on React, and documented best practices within the organization",
+    "metadata": {
+      "source": "CYNTHIA_DWAYNE.pdf",
+      "chunk_id": 1,
+      "chunk_size": 600
+    }
+  },
+  {
+    "content": "**Front-End Developer**\nAMR\nJanuary 2014 - December 2016 / New York, NY\n*   Contributed to the in-house UI library to create reusable components that saved 125+ hours of development per month\n*   Created a web app MVP for a store delivery management platform with 200+ business customers to create, manage, and monitor deliveries using React and Redux\n*   Added features to meditation app with 5,000+ monthly users, enabling audio and video uploads using React and Redux\n*   Improved customer conversion rate by 17% through A/B testing of different components and combinations, representing $500,000+ in incremental annual revenue",
+    "metadata": {
+      "source": "CYNTHIA_DWAYNE.pdf",
+      "chunk_id": 2,
+      "chunk_size": 630
+    }
+  },
+  {
+    "content": "**Help Desk Analyst**\nKelly\nJune 2012 - January 2014 / New York, NY\n*   Diagnosed technical issues for 30+ clients per day by phone, email, and chat, solving issues within 15 minutes on average\n*   Successfully reached solutions for 92% of computer errors, and escalated more complex tickets to higher tiers to assist clients as quickly as possible\n*   Created user accounts for 50+ clients per week, and assisted them with setting up and customizing their accounts\n*   Created and updated documentation as needed concerning network, software, and hardware problems\n\n## EDUCATION\n\nBachelor of Science\nComputer Science\nUniversity of Delaware\nAugust 2008 - May 2012\nNewark, DE\n\n## SKILLS\n\nPython (Django)\nSQL (PostgreSQL, MySQL)\nCloud (GCP, AWS)\nJavaScript (ES6, React, Redux, Node.js)\nTypescript\nHTML/CSS\nCI/CD\n```",
+    "metadata": {
+      "source": "CYNTHIA_DWAYNE.pdf",
+      "chunk_id": 3,
+      "chunk_size": 813
+    }
+  },
+  {
+    "content": "```markdown\n# TINA COOK\nSOFTWARE ENGINEER INTERN\n\n## CONTACT\nt.cook@email.com\n(123) 456-7890\nSeattle, WA\nLinkedIn\n\n## CAREER OBJECTIVE\nPassionate software engineer intern with project experience designing a mobile application design and POS-based smart contract development, aspiring to bring my expertise to Tableau Software. Excited to apply my skills in your firm to drive innovative data visualization solutions.\n\n## EDUCATION\nBachelor of Science\nComputer Science\nUniversity of Washington\n2021 - current\nSeattle, WA\n\n## SKILLS\n*   C++\n*   Mercurial\n*   Eclipse\n*   MongoDB\n*   OpenShift",
+    "metadata": {
+      "source": "TINA_COOK.pdf",
+      "chunk_id": 0,
+      "chunk_size": 590
+    }
+  },
+  {
+    "content": "## SKILLS\n*   C++\n*   Mercurial\n*   Eclipse\n*   MongoDB\n*   OpenShift\n\n## WORK EXPERIENCE\nCustomer Service Representative\nT-Mobile\n2023 - current / Seattle, WA\n*   Provided on-call support to a minimum of 71 customers daily, resolving 92% of issues on the first call.\n*   Implemented a C++ script to automate CRM data entry tasks, reducing the time needed to create reports by 39 minutes.\n*   Prevented escalations for 8 billing issues each month via quick resolutions.\n*   Managed high-volume inbound calls during peak hours, maintaining an average response time of under 44 seconds.",
+    "metadata": {
+      "source": "TINA_COOK.pdf",
+      "chunk_id": 1,
+      "chunk_size": 584
+    }
+  },
+  {
+    "content": "## PROJECTS\nPixelPilot\nUI/UX Designer\n2022-2023\n*   Designed and prototyped a mobile app interface for a drone control application, gaining a 87% user engagement rate during the testing phase.\n*   Held multiple user testing sessions, gathering feedback to refine the app's user interface and decrease post-launch bug reports by 41%.\n*   Used Eclipse IDE to debug the mobile app, fixing critical issues and releasing the application 3 weeks ahead of schedule.\n*   Leveraged MongoDB for storing user data and drone records, lowering data retrieval speed by 6 minutes.",
+    "metadata": {
+      "source": "TINA_COOK.pdf",
+      "chunk_id": 2,
+      "chunk_size": 565
+    }
+  },
+  {
+    "content": "## Blockchain\nSeminar Attendee\nNovember 2021\n*   Attended a comprehensive blockchain technology seminar with 175+ attendees, understanding its applications in finance and healthcare.\n*   Participated in hands-on workshops on blockchain, achieving a 9.5/10 report score by industry experts for Google Cloud Platform integration.\n*   Optimized blockchain deployments on OpenShift, using seminar knowledge to expedite deployment time by 4 days.\n*   Created a proof-of-stake smart contract for a healthcare setting, reducing data processing time by 17 minutes compared to industry standards.\n```",
+    "metadata": {
+      "source": "TINA_COOK.pdf",
+      "chunk_id": 3,
+      "chunk_size": 591
+    }
+  },
+  {
+    "content": "```markdown\n# Duy Dang Tran\nIntern .NET Developer\n\nDob: 20/08/2003\n\nGender: Male\n\nPhone: 0868337747\n\nEmail: danglun337747@gmail.com\n\nAddress: Cao Lanh, Dong Thap\n\n## OBJECTIVE\n\nI am a motivated Junior .NET Developer with experience in C# and building web applications using ASP.NET and RESTful APIs. I focus on writing clean, efficient code while continuously improving my skills. I enjoy working in collaborative teams to deliver impactful, scalable solutions.\n\n## PROJECT\n\nNov 2024 - Dec 2024\n**News Website**\n\n**Leader and Backend Developer**\n* Manage progress through Gitlab.\n* Analyze and design systems and databases.\n* Developing website\n* Testing and debuging\nTeam size: 3\n\n**Technology Description**\n* Backend: C#, ASP.NET Core Web API.\n* Frontend: ReactJS, Tailwind CSS.\n* Database: MS SQL Server\n* Tools: Gitlab, Postman.\n* Link gitlab: https://gitlab.com/duydang208/news_be",
+    "metadata": {
+      "source": "Intern_NET.pdf",
+      "chunk_id": 0,
+      "chunk_size": 885
+    }
+  },
+  {
+    "content": "July 2024 - Dec 2024\n**Website to support Olympic exam review for students of Dong Thap University's Faculty of Technology and Engineering**\n\n**FullStack**\n* Learn and analyze the student information technology Olympiad exam process.\n* Analyze and design systems and databases.\n* Developing website\n* Testing and debuging\nTeam size: 1\n\n**Technology Description**\n* Backend: C#, ASP.NET Core Web API.\n* Frontend: ReactJS, Tailwind CSS.\n* Database: MS SQL Server\n* Framework: Entity Framework.\n* Support: Ant Design UI, Figma, Postman.\n\n**Link gitlab:**\n* API: https://gitlab.com/duydang208/edtoj-api\n* FE: https://gitlab.com/duydang208/edtoj-interfaces\n\nJuly 2024 - August 2024\n**Website Flower Selling Software**\n\nLeader and Developer\n* Analysis and design of information systems.\n* Design and draw diagrams of the system.\n* Developing functions for shoppers.\n* Testing and debuging on testcases.\nTeam size: 3",
+    "metadata": {
+      "source": "Intern_NET.pdf",
+      "chunk_id": 1,
+      "chunk_size": 909
+    }
+  },
+  {
+    "content": "**Technology Description**\n* Backend: C#, ASP.NET MVC\n* Frontend: HTML5, CSS3, JS.\n* Framework: Entity Framework, Bootstrap 5\n* Database: MS SQL Server.\n* Link github: https://github.com/DangLun/FlowerShop\n\nMay 2024 - June 2024\n**Expense management mobile software.**\n\nLeader and Developer\n* Analysis and design of information systems.\n* Design and draw diagrams of the system.\n* Learning and using web API\n* Developing for backend.\n* Testing and debuging on testcases.\nTeam size: 3\n\n**Technology Description**\n* C# .NET MAUI, Restful API.\n* Framework: Entity Framework.\n* Database: MS SQL Server.\n\nJune 2024 - July 2024\n**Hivello Project**\n\nDeveloper\n* Support writing code for application installation.\nTeam size: 3\n\n**Technology Description**\n* C#, WPF\n\nSeptember 2023 - October 2023\n**Website Selling Cosmetics**\n\n**FullStack**\n* Analysis and design of information systems.\n* Building Database.\n* Developing for website.\n* Testing and debuging on testcases.\nTeam size: 1",
+    "metadata": {
+      "source": "Intern_NET.pdf",
+      "chunk_id": 2,
+      "chunk_size": 974
+    }
+  },
+  {
+    "content": "**Technology Description**\n* PHP, Javascript.\n* Framework: Bootstrap 5.\n* MS SQL Server.\n\nAugust 2024 - September 2024\n**Website Selling Book**\n\n**FullStack**\n* Analysis and design of information systems.\n* Building Database.\n* Developing for website\n* Testing and debuging on testcases.\nTeam size: 1\n\n**Technology Description**\n* Java, ReactJs, Restful API.\n* Framework: Springboot.\n* PosgeSQL.\n\nApril 2024 - May 2024\n**Shoe shop management software.**\n\nLeader\n* Learn and analyze the shoe sales management process.\n* Design and build database.\n* Developing Backend.\n* Testing and debuging.\nTeam size: 3\n\n**Technology Description**\n* C#.NET Windows Form.\n* MS SQL Server.\n* Link github: https://github.com/DangLun/QLShopGiayDep\n\n## EDUCATION\n\n2021 - Now\n**Dong Thap University**\nComputer science\nGPA: 3.56 / 4.0\n\n## ACHIEVEMENTS\n\n2024\nFirst prize in the 4th Student Informatics Olympiad at Dong Thap University",
+    "metadata": {
+      "source": "Intern_NET.pdf",
+      "chunk_id": 3,
+      "chunk_size": 911
+    }
+  },
+  {
+    "content": "## ACHIEVEMENTS\n\n2024\nFirst prize in the 4th Student Informatics Olympiad at Dong Thap University\n\n2023\nThird prize at the 32nd National Student Informatics Olympiad at the University Hue Science.\n\n2023\nSecond prize in Software Innovation for the 3nd time at Dong Thap University.\n\n2022\nSecond prize in Software Innovation for the 2nd time at Dong Thap University.\n\n2022\nFirst Prize in the 3nd Student Informatics Olympiad at Dong Thap University.\n\n2021\nFirst Prize in the 2nd Student Informatics Olympiad at Dong Thap University.\n\n## CERTIFICATIONS\n\n2024\nFoudation C# on freeCodeCamp\n\n## SKILLS\n\n**Problem solving**\nI can solve the problem on time I can solve the problem on time.\n\n**Self learning**\nI have good self-study ability.\n\n**Time management**\nI have the ability to manage time properly.\n\n**Teamworking**\nI have teamwork skills.\n```",
+    "metadata": {
+      "source": "Intern_NET.pdf",
+      "chunk_id": 4,
+      "chunk_size": 842
+    }
+  },
+  {
+    "content": "Okay, I understand. I will extract the content of the CV document and rewrite it as well-structured, readable markdown text with clear sections, while adhering to all the constraints specified. I will focus on preserving all factual information, formatting, and tech stack keywords without any hallucination or invention. The output will be clean markdown suitable for splitting into semantic chunks.",
+    "metadata": {
+      "source": "Microservices patterns.pdf",
+      "chunk_id": 0,
+      "chunk_size": 400
+    }
+  },
+  {
+    "content": "```markdown\n# Loc Nguyen\n(+84) 708 490658 · intploc21@gmail.com · linkedin.com/ntploc21 · github.com/ntploc21\n\n## Education\nVNUHCM - University of Science October 2022 - October 2026 (expected)\nBachelor of Science, Advanced Program in Computer Science (GPA: 3.59 / 4.00) Ho Chi Minh City, Vietnam\n* Relevant Coursework: Data Structures and Algorithms, Object Oriented Programming, Computer Systems, Database Systems, Software Design & Analysis\n\n## Technical Skills\nProgramming Languages: C++, Golang, Java, Python, Javascript, PHP\nTechnologies: NodeJS; Django; Spring Boot; MongoDB, PostgreSQL; Git, Docker, AWS; Linux\nLanguages: English (Professional Working Proficiency), Vietnamese",
+    "metadata": {
+      "source": "Loc_Nguyen_SWE.pdf",
+      "chunk_id": 0,
+      "chunk_size": 684
+    }
+  },
+  {
+    "content": "## Work Experience\nZALORA Group Feb 2024 - Feb 2025\nSoftware Engineer Ho Chi Minh City, Vietnam\n* Collaborated with cross-functional teams to integrate a new payment gateway, reduced payment invalidation rates by 50%, and further enhanced it with a one-click checkout solution, resulting in 21% lower cart abandonment.\n* Migrated CI/CD pipelines to GitHub Actions with multi-architecture Docker builds (ARM64/x86-64) for EC2 spot instances, achieving 25% AWS cost reduction and 50% faster deployments through optimized caching and image consolidation.\n* Developed and exposed payment notification APIs via Amazon API Gateway for internal services, streamlining payment method integration while enhancing the payment monitoring system's security and reliability.",
+    "metadata": {
+      "source": "Loc_Nguyen_SWE.pdf",
+      "chunk_id": 1,
+      "chunk_size": 761
+    }
+  },
+  {
+    "content": "ACL Education Jun 2023 - Sep 2023\nSoftware Engineer Intern Ho Chi Minh City, Vietnam\n* Implemented User Authentication & Authorization feature.\n* Analyzed the business model, designed the user schema, and user flow, and implemented the user class with the use of Spring ORM.\n\n## Awards\n* Second Prize, rank 43 out of 500+, in the Vietnam National Olympiad in Informatics 2022\n* Rank 37 out of 132, The 2022 ICPC Asia Ho Chi Minh City Regional Contest\nICPC is a global competitive programming competition. Competed in teams of 3 to solve 10-13 programming challenges in 5 hours\n* Rank 25 out of 358, The 2021 ICPC Vietnam National Programming Contest - High School Division\n* Rank 38 out of 377, The 2022 ICPC Vietnam National Programming Contest\n* Rank 39 out of 300+, The 2024 ICPC Vietnam National Programming Contest\n* Vallet Fellowship 2022 by Rencontres du Vietnam for Excellent Students",
+    "metadata": {
+      "source": "Loc_Nguyen_SWE.pdf",
+      "chunk_id": 2,
+      "chunk_size": 892
+    }
+  },
+  {
+    "content": "## Projects\nOrantio | NodeJS, Apollo GraphQL, MongoDB, Java (Spring Boot), Docker Jun 2024 - Dec 2024\n* Spearheaded a 5-member team in developing a microservices-based real-time chat application, architecting and implementing backend services using NodeJS, Apollo GraphQL, and Spring Boot, handling core features like messaging, authorization, and friend system with support for 100+ concurrent users.\n* Optimized system performance through Redis caching and query optimization, resulting in a 90% reduction in server average response time (under 20ms) and a 3x increase in concurrent user capacity while implementing CDN-cached AWS S3 for file storage.\n* Established robust development practices through extensive code reviews (70+ pull requests), while designing scalable RESTful APIs using Express.js and MongoDB for critical features like role-based authorization and real-time messaging via WebSocket.",
+    "metadata": {
+      "source": "Loc_Nguyen_SWE.pdf",
+      "chunk_id": 3,
+      "chunk_size": 906
+    }
+  },
+  {
+    "content": "Document Editor | C++, CMake, Raylib July 2023 - Aug 2023\n* Developed a cross-platform document editor in C++ using CMake and Raylib, implementing core text editing functionalities with an efficient undo/redo system through immutable data structures.\n* Engineered advanced data structures including Rope for large document manipulation (100,000+ words), Z-function for pattern searching, and Trie for key binding and spell checking, optimizing memory usage and performance.",
+    "metadata": {
+      "source": "Loc_Nguyen_SWE.pdf",
+      "chunk_id": 4,
+      "chunk_size": 473
+    }
+  },
+  {
+    "content": "Data Structure Visualizer | C++, CMake, Raylib April 2023 - May 2023\n* Single-handedly spearheaded a cross-platform data structure visualization application in C++ that dynamically demonstrates 7 core data structures, incorporating comprehensive unit tests to ensure operation reliability.\n* Architected the system using object-oriented principles and design patterns (Strategy, Observer, Command), creating a scalable framework to add new data structures and visualizations easily.\n* Implemented an intuitive UI with smooth animations using Raylib, focusing on educational clarity through step-by-step visualization of data structure operations.\n```",
+    "metadata": {
+      "source": "Loc_Nguyen_SWE.pdf",
+      "chunk_id": 5,
+      "chunk_size": 650
+    }
+  },
+  {
+    "content": "```markdown\n# LE VAN SY\nBACKEND INTERN\n\n## PERSONAL INFORMATION\n\n*   19/01/2004\n*   0905008230\n*   syle190104@gmail.com\n*   [https://github.com/LeSy19](https://github.com/LeSy19)\n*   Phuoc Kien, Nha Be, TP HCM\n\n## SKILLS\n\n**Specialized Skills:**\n\n*   Java & Spring boot\n*   Spring Security\n*   SQL Server & MySQL\n*   Html/Css/JavaScript\n*   Bootstrap 5\n*   Hibernate\n*   Git & Github\n*   Use Case Diagram Creation\n*   ERD Creation\n\n**Other Skills:**\n\n*   Office Software\n*   Presentation\n*   Teamwork\n*   Communication\n*   Analysis\n*   Listening and Learning\n\n## HOBBIES\n\n*   Traveling\n*   Badminton\n*   Volleyball\n\n## TARGET\n\n**Short-term:**\n\n*   Intern at a company specializing in the technology field.\n*   Full-time employee at the company.\n*   Participate in completing a real-world project.\n\n**Long-term:**\n\n*   A highly skilled programmer with the ability to design and build robust and efficient back-end systems.\n*   A team leader in a small project.\n\n## EDUCATION",
+    "metadata": {
+      "source": "CV_LeVanSy_Backend_Intern.pdf",
+      "chunk_id": 0,
+      "chunk_size": 973
+    }
+  },
+  {
+    "content": "## EDUCATION\n\n**Software Development Industry** 9/2022 - Now\n\nCurrently in the final semester at FPT Polytechnic College\n\nGPA: 8.8\n\nEnglish 2.2: 8.4\n\n## PROJECTS\n\n**ACCESSORY RETAIL WEBSITE** 7/2024 - 8/2024\n\n**Position:** Back-end Developer\n\n**Number of Participants:** 1\n\n**Technologies:** Java Spring Boot, Spring Security, Thymeleaf, AngularJS, Bootstrap 5, Spring MVC, SQL Server.\n\n**Project Description:** Online accessory sales platform. Includes user and admin roles with permissions. Features for adding, deleting, and editing products.\n\n**Role in the Team:** Team Leader\n\n**Link GitHub:** [https://github.com/LeSy19/WebBanPhuKien](https://github.com/LeSy19/WebBanPhuKien)\n\n**CLOTHING RETAIL WEBSITE** 5/2024 - 6/2024\n\n**Position:** Back-end Developer\n\n**Number of Participants:** 4\n\n**Technologies:** Java Spring Boot, Interceptor, Spring MVC, Bootstrap 5, SQL Server.",
+    "metadata": {
+      "source": "CV_LeVanSy_Backend_Intern.pdf",
+      "chunk_id": 1,
+      "chunk_size": 878
+    }
+  },
+  {
+    "content": "**Technologies:** Java Spring Boot, Interceptor, Spring MVC, Bootstrap 5, SQL Server.\n\n**Project Description:** Online clothing sales platform. User registration and role management for users and administrators. Includes functionality for tracking the quantity of clothing sold.\n\n**Role in the Team:** Team Leader\n\n**Link Github:** [https://github.com/LeSy19/WebBanQuanAo](https://github.com/LeSy19/WebBanQuanAo)\n\n## ACTIVITIES\n\n**SELLING SANDWICHES FOR CHARITY FUNDRAISING** 6/2024 - 8/2024\n\n**Number of Participants:** 6\n\nSelling Sandwiches with 100% of the profits going towards purchasing books and stationery for underprivileged children in Tan Thanh Dong Commune, Cu Chi District.\n```",
+    "metadata": {
+      "source": "CV_LeVanSy_Backend_Intern.pdf",
+      "chunk_id": 2,
+      "chunk_size": 690
+    }
+  },
+  {
+    "content": "```markdown\n# ARIA FISCHER\nJunior Software Engineer\na.fischer@email.com (123) 456-7890 Southfield, MI\nlinkedin.com\n\n# WORK EXPERIENCE\nIT Support Technician\nBlue Cross Blue Shield of Michigan\nAugust 2020 - current Detroit, MI\n* Implemented Azure DevOps and Azure Storage cloud solutions, increasing infrastructure efficiency by 13%.\n* Migrated 54% of the organization's code repositories to Subversion (SVN) to streamline version control.\n* Resolved 20+ instances of software license non-compliance, saving around $54,000 in potential fines and penalties.\n* Automated 8 routine IT tasks using Selenium to free 11 hours of staff time on average per week.",
+    "metadata": {
+      "source": "ARIA_FISCHER.pdf",
+      "chunk_id": 0,
+      "chunk_size": 652
+    }
+  },
+  {
+    "content": "Technical Support Representative\nComcast\nDecember 2017 - June 2020 Ann Arbor, ΜΙ\n* Achieved a monthly customer satisfaction rating of 98%, ranking within the top 3% of Technical Support Representatives at Comcast.\n* Upsold Comcast services to Xfinity Internet customers, generating $21,000+ in additional annual revenue.\n* Contacted customers with scheduled maintenance updates, reducing incoming calls by 65% on average.\n* Handled 50+ support calls per day, addressing customer concerns related to product features and technical issues.",
+    "metadata": {
+      "source": "ARIA_FISCHER.pdf",
+      "chunk_id": 1,
+      "chunk_size": 537
+    }
+  },
+  {
+    "content": "# PROJECTS\nDeveloper\nStudySpot\n2015-2017\n* Used React to create a seamless user interface on Android and iOS apps, doubling monthly downloads in 7 months.\n* Implemented a code repository management system using Subversion, boosting code collaboration efficiency by 34%.\n* Enforced secure data transfer protocols and encryption mechanisms and ensured user data remained protected.\n* Introduced an analytics and reporting framework with Microsoft Azure, providing insights into user behavior and patterns.\n\n# CAREER OBJECTIVE\nA seasoned IT professional passionate about software development, seeking a junior software engineer role at Bosch. Eager to apply my experience with Eclipse and C++ to create high-quality software products that contribute to the company's engineering efforts.\n\n# EDUCATION\nBachelor of Science\nComputer Science and Engineering\nUniversity of Michigan\n2013-2017\nAnn Arbor, MI\n\n# SKILLS\n* Eclipse\n* Subversion (SVN)\n* C++\n* React\n* PostgreSQL\n* Microsoft Azure\n* Selenium",
+    "metadata": {
+      "source": "ARIA_FISCHER.pdf",
+      "chunk_id": 2,
+      "chunk_size": 992
+    }
+  },
+  {
+    "content": "# SKILLS\n* Eclipse\n* Subversion (SVN)\n* C++\n* React\n* PostgreSQL\n* Microsoft Azure\n* Selenium\n\n# CERTIFICATIONS\n* Certified Software Development Professional (CSDP)\n```",
+    "metadata": {
+      "source": "ARIA_FISCHER.pdf",
+      "chunk_id": 3,
+      "chunk_size": 168
+    }
+  },
+  {
+    "content": "```markdown\n# GIULIA GONZALEZ\nPython Developer\n\nggonzalez@email.com\n(123) 456-7890\nDetroit, MI\nLinkedIn\nGithub\n\n## EDUCATION\nM.S.\nComputer Science\nUniversity of Chicago\n2014-2016\nChicago, IL\n\nB.S.\nComputer Science\nUniversity of Pittsburgh\n2010-2014\nPittsburgh, PA\n\n## SKILLS\nHTML/CSS\nSQL (PostgreSQL, Oracle)\nJavaScript (Angular)\nPython (Django)\nREST APIs (GraphQL)\nAWS (Redshift, S3)\nGit",
+    "metadata": {
+      "source": "GIULIA_GONZALEZ.pdf",
+      "chunk_id": 0,
+      "chunk_size": 388
+    }
+  },
+  {
+    "content": "## WORK EXPERIENCE\nPython Developer\nDoorDash\n* September 2017 - current Detroit, MI\n* Worked on building new Angular components for the customer-facing web app, which improved the time on page for the average user by 2 minutes\n* Collaborated with an agile team of 6, and helped prioritize and scope feature requests to ensure that the biggest impact features were worked on first\n* Built extensive test coverage for all new features, which reduced the number of customer complaints by 23%\n* Acquired and ingested data to build and maintain data pipelines that led to discovering an opportunity for a new site feature, boosting revenue by 6%\n* Communicated with internal teams and stakeholders, working to determine solutions for the user experience",
+    "metadata": {
+      "source": "GIULIA_GONZALEZ.pdf",
+      "chunk_id": 1,
+      "chunk_size": 748
+    }
+  },
+  {
+    "content": "Python Developer Intern\nKnewton\n* April 2016 - April 2017 Chicago, IL\n* Worked alongside another developer to implement RESTful APIs in Django that enabled internal analytics team to increase reporting speed by 24%\n* Using Selenium, built out a unit testing infrastructure for a client web application that reduced the number of bugs reported by the client by 11% month over month\n* Provided project updates to leadership team of 3, and offered recommendations for design\n* Diagnosed issues causing slow speeds in applications, and documented the process to making the database query system more robust\n* Participated in writing scalable code with a team of 4 interns and 1 developer for applications for a math course\n\n## PROJECTS\nCryptocurrency Price Tracker\nCreator\n* Incorporated API calls to several applications, and stored data efficiently in PostgreSQL backend\n* Utilized D3.js to allow users to dynamically visualize price movements over time periods of their choosing\n```",
+    "metadata": {
+      "source": "GIULIA_GONZALEZ.pdf",
+      "chunk_id": 2,
+      "chunk_size": 981
+    }
+  },
+  {
+    "content": "```markdown\n# LUCIAN ASHFORD\nStaff Software Engineer\nl.ashford@email.com (123) 456-7890 Alpharetta, GA\nLinkedIn\n\n## WORK EXPERIENCE\nStaff Software Engineer\nMcKesson Corporation\n* 2022 - current Alpharetta, GA\n* Overhauled MySQL schema indexation, enabling quicker data access and saving six hours of query time per month\n* Formulated a cost-saving strategy by adopting Kubernetes, cutting cloud resource expenditure by $46,974 for the fiscal year\n* Managed successful optimization of JavaScript routines in eight high-traffic applications, which saved maintenance costs\n* Authored comprehensive documentation on C++-coded features, simplifying troubleshooting time for technical teams by 21%",
+    "metadata": {
+      "source": "LUCIAN_ASHFORD.pdf",
+      "chunk_id": 0,
+      "chunk_size": 691
+    }
+  },
+  {
+    "content": "Associate Software Developer\nInComm\n* 2019 - 2022 Atlanta, GA\n* Developed cutting-edge JavaScript features for a fin-tech application, increasing transaction volume by 4,849 transactions per month\n* Processed over 346 defects through Pytest in six months, enhancing product stability for over 54,650+ users\n* Built Angular interfaces that decreased page load times by 1.7 seconds, improving customer transaction completion rate by 8%\n* Leveraged Oracle Cloud functionalities to automate backups, preventing potential annual losses of $8,873 in data recovery",
+    "metadata": {
+      "source": "LUCIAN_ASHFORD.pdf",
+      "chunk_id": 1,
+      "chunk_size": 557
+    }
+  },
+  {
+    "content": "Technical Support Analyst\nCox Communications\n* 2017 - 2019 Atlanta, GA\n* Negotiated with software providers to utilize Pytest, saving the company a projected $8,664 in tool licensing in two years\n* Drafted more than 152 technical guides for Kubernetes, reducing the orientation period for new hires by 26%\n* Analyzed and processed customer data with MySQL queries, improving response times by eight minutes per inquiry\n* Implemented a new system for bug logging with Mercurial that reduced discrepancies in error logs by 28%\n\n## EDUCATION\nBachelor of Science\nComputer Science\nGeorgia Institute of Technology\n2013 - 2017\nAtlanta, GA\n\n## SKILLS\n* Eclipse\n* Mercurial\n* JavaScript\n* C++\n* Angular\n* MySQL\n* Kubernetes\n* Oracle Cloud\n* Pytest\n* Jira\n```",
+    "metadata": {
+      "source": "LUCIAN_ASHFORD.pdf",
+      "chunk_id": 2,
+      "chunk_size": 749
+    }
+  },
+  {
+    "content": "```markdown\n# Nguyen Minh Truong\n\nWEB DEVELOPER INTERN\n\n## Contact\n\n*   0388742496\n*   truong108nguyen@gmail.com\n*   https://github.com/minh-truong-081003\n*   No. 6, Street No. 12, Quarter 2, Hiep Binh Chanh, Thu Duc, Ho Chi Minh City\n\n## CAREER GOALS\n\nWith the spirit of proactive learning and continuous improvement, I look forward to participating in a professional working environment where I can apply my knowledge of software development in practice and contribute to overall success. I believe this is an important stepping stone to help me achieve my goal of becoming a professional backend developer.\n\n## EDUCATION\n\n**FACULTY OF INFORMATION TECHNOLOGY** 2021 - 2025\n\nHo Chi Minh City University of Technology and Education\n\nYear 4 Software Engineering Major\n\nGPA: 7.7\n\n## PERSONAL PROJECTS\n\n**HOTELBOOKING - HOTEL MANAGEMENT**\n\n**IMPLEMENTATION TIME** 10/2024 - 12/2024",
+    "metadata": {
+      "source": "NguyenMinhTruong-Web developer intern CV.pdf",
+      "chunk_id": 0,
+      "chunk_size": 878
+    }
+  },
+  {
+    "content": "**HOTELBOOKING - HOTEL MANAGEMENT**\n\n**IMPLEMENTATION TIME** 10/2024 - 12/2024\n\n**Describe** The website is for the purpose of searching, renting, and booking hotel rooms,... Personal hotel management and creation\n\n**Technology used**\n\n*   Backend: Java, Websocket, NodeJS REST API,..\n*   Database: MongoDB Atlas\n*   Frontend: React, Redux, Material UI,...\n*   Tools: Git, Github, Postman,...\n\n**Role**\n\n*   Database design.\n*   Interface design, admin function.\n*   Build and test the system.\n\n## SKILLS\n\n**PROFESSIONAL SKILLS**\n\n*   Knowledge of programming languages:\n    Java, JavaScript.\n*   Proficiency in frameworks:\n    ExpressJS, NodeJS, ReactJS.\n*   Familiar with version management tools: Git, GitHub, and public\n    Postman, Thunder testers.\n*   Databases: MySQL, SQL Server, MongoDB.\n*   3rd party storage: Cloudary, Firebase, AWS.\n*   Understanding of data structures and programming principles object orientation.\n\n**SOFT SKILLS**",
+    "metadata": {
+      "source": "NguyenMinhTruong-Web developer intern CV.pdf",
+      "chunk_id": 1,
+      "chunk_size": 945
+    }
+  },
+  {
+    "content": "**SOFT SKILLS**\n\n*   Have the spirit of self-study, learn new knowledge technologies.\n*   Effective problem-solving skills\n*   Good English reading and comprehension\n```",
+    "metadata": {
+      "source": "NguyenMinhTruong-Web developer intern CV.pdf",
+      "chunk_id": 2,
+      "chunk_size": 169
+    }
+  },
+  {
+    "content": "```markdown\n# ADIRA PATEL\n\nMid-Level Software Engineer\n\n## CONTACT\n\na.patel@email.com\n(123) 456-7890\nSeattle, WA\n[LinkedIn](https://www.linkedin.com/)\n[Github](https://github.com/)\n\n## EDUCATION\n\nBachelor of Science\nComputer Science\nUniversity of Washington\n2015 - 2019\nSeattle, WA\n\n## SKILLS\n\n*   Java\n*   HTML/CSS\n*   MySQL\n*   Git\n*   Jira\n*   JUnit\n*   Eclipse\n*   Linux\n*   Memcyco\n*   Spring Boot\n*   React Native\n\n## CERTIFICATIONS\n\n*   AWS Certified Developer\n\n## WORK EXPERIENCE\n\n### Mid-Level Software Engineer\n**F5 Networks**\n2023 - current\nSeattle, WA\n\n*   Spearheaded Java coding workshop for 21+ developers, improving awareness and **reducing code-related threats by 37%**\n*   Led PCI DSS compliance audit and found no non-compliance instance\n*   Bolstered fraud prevention with Memcyco and achieved a 24% decrease in false positives\n*   Automated repeatable testing on JUnit that expedited applications testing by 47% rate",
+    "metadata": {
+      "source": "ADIRA_PATEL.pdf",
+      "chunk_id": 0,
+      "chunk_size": 937
+    }
+  },
+  {
+    "content": "### Junior Software Developer\n**Zulily**\n2020 - 2023\nSeattle, WA\n\n*   Tracked and fixed 61+ web application bugs using Jira, which resulted in a 97% reduction in crashes\n*   **Enhanced web load time by 33%** through MySQL-optimized database storage\n*   Implemented React Native UI enhancements that resulted in a 41% increase in average session duration\n*   Collaborated with a 7-member cross-functional team to build software core features to improve system performance to 114%\n\n### Software Developer Intern\n**ExtraHop Networks**\n2019-2020\nSeattle, WA",
+    "metadata": {
+      "source": "ADIRA_PATEL.pdf",
+      "chunk_id": 1,
+      "chunk_size": 553
+    }
+  },
+  {
+    "content": "### Software Developer Intern\n**ExtraHop Networks**\n2019-2020\nSeattle, WA\n\n*   Created HTML/CSS web pages and reduced workload for the core DevOps by 17%\n*   **Decreased the frequency of code breakages to 7%** by developing a Git-backed tool for code management\n*   Participated in rolling out Linux-encrypted web and database servers that enhanced overall system performance by 62%\n*   Integrated UI upgrades into new cross-device access applications, achieving a 34% upsurge in positive user reviews\n*   Decreased bounce rate by 18% by improving site navigation and enhancing mobile responsiveness with Bootstrap 5\n```",
+    "metadata": {
+      "source": "ADIRA_PATEL.pdf",
+      "chunk_id": 2,
+      "chunk_size": 620
+    }
+  },
+  {
+    "content": "```markdown\nFALLON WINSLOW\nSoftware Engineer Intern\n\nf.winslow@email.com\n(123) 456-7890\nSeattle, WA\nLinkedIn\n\n## EDUCATION\nBachelor of Science\nComputer Science\nUniversity of Washington\n2019 - 2023\nSeattle, WA\n\n## SKILLS\n* Visual Studio Code\n* Git\n* Python\n* Django\n* MySQL\n* OpenShift\n* IBM Cloud\n* Jenkins\n\n## WORK EXPERIENCE\nSoftware Engineer Intern\nF5 Networks\n2023 - current\nSeattle, WA\n* Implemented a new authentication module in Python, improving system security compliance and saving an estimated $2,046 on potential breach risks\n* Upgraded the Jenkins pipeline for continuous integration, speeding up code deployment times by three hours\n* Developed a MySQL database schema design, improving data integrity and access speed by 39%\n* Designed a user-friendly interface for our internal tool using Django, which increased user adoption by an extra 329 users within the first week alone",
+    "metadata": {
+      "source": "FALLON_WINSLOW.pdf",
+      "chunk_id": 0,
+      "chunk_size": 892
+    }
+  },
+  {
+    "content": "## PROJECTS\nCodelt\nTeam Member\n2022\n* Supervised the integration of user feedback into project iterations, enhancing usability scores by 2 points on a scale of 0 to 10\n* Created a dynamic and responsive web UI with Visual Studio Code, resulting in a significant increase of 158 new users within the first day of launch alone\n* Formulated strategies for database optimization in MySQL, which reduced query response times from an average of 12 seconds to 4.8 seconds\n* Expanded the application's functionality by incorporating Python scripts for data analysis, increasing data processing capacities by 2.7 GB per day",
+    "metadata": {
+      "source": "FALLON_WINSLOW.pdf",
+      "chunk_id": 1,
+      "chunk_size": 614
+    }
+  },
+  {
+    "content": "CyberGuard Workshop\nWorkshop Attendee\n2021\n* Engaged in a session focused on ethical hacking, learning to use Git for version control to manage and maintain security scripts and tools\n* Built a basic threat simulation model, which augmented my ability to set up secure environments for applications deployed using Jenkins pipelines\n* Introduced to the principles of secure coding practices, employing Visual Studio Code for scanning and fixing over 19 vulnerabilities in the codebase\n* Acquired knowledge on building a basic threat simulation model, introducing me to the secure setup of CI/CD pipelines using Jenkins\n```",
+    "metadata": {
+      "source": "FALLON_WINSLOW.pdf",
+      "chunk_id": 2,
+      "chunk_size": 621
+    }
+  },
+  {
+    "content": "```markdown\n# SERAPHINA BLAKE\nSoftware Development Engineer\ns.blake@email.com (123) 456-7890 Houston, TX\nLinkedIn\n\n## WORK EXPERIENCE\n**Software Development Engineer**\nHewlett Packard Enterprise (HPE)\n2022 - current Houston, TX\n* Worked with 3 engineers on GitHub, managing 27 repositories, which resulted in a *13% decrease in code conflicts*.\n* Released multiple updates using Java for HP's diagnostics tool, improving its performance metrics by 11%.\n* Led the development of a new software feature on HP QuickDrop, resulting in a 6% increase in customer satisfaction, as per anonymous in-app surveys.\n* Optimized various MySQL database queries which eventually shortened query execution times to 3 ms.",
+    "metadata": {
+      "source": "SERAPHINA_BLAKE.pdf",
+      "chunk_id": 0,
+      "chunk_size": 704
+    }
+  },
+  {
+    "content": "**Software Developer**\nIBM\n2019-2022 Austin, TX\n* Enhanced code quality by installing Visual Studio Code extensions, curtailing monthly reported bugs on IBM's website by 14%.\n* Leveraged Jenkins plugins for monitoring 97% of all error logs and HTTPS requests, providing accurate data that helped the team boost build success rates by 21%.\n* Automated unit testing using JUnit, *mitigating regression testing time by 58 minutes*.\n* Lowered codebase complexity by refactoring legacy code, cutting down IBM's maintenance costs by $6,491.",
+    "metadata": {
+      "source": "SERAPHINA_BLAKE.pdf",
+      "chunk_id": 1,
+      "chunk_size": 534
+    }
+  },
+  {
+    "content": "**Junior Software Developer**\nOracle\n2016-2019 Austin, TX\n* Helped senior designers implement React components on landing pages, growing UI consistency across 3 projects.\n* Deployed security patches with the help of Ansible, *eliminating 7 system vulnerabilities*.\n* Assisted in the creation project documentation, reducing the average onboarding time for new developers by one week.\n* Used Docker Compose for multi-container applications, expediting development environments and shortening setup times by 2 days.\n\n## EDUCATION\nBachelor of Science\nComputer Science\nUniversity of Texas\n2012-2016 Austin, TX\n\n## SKILLS\n* Visual Studio Code\n* GitHub\n* Jenkins\n* Java\n* MySQL\n* Amazon Web Services\n* Docker\n* Ansible\n* React\n* JUnit\n```",
+    "metadata": {
+      "source": "SERAPHINA_BLAKE.pdf",
+      "chunk_id": 2,
+      "chunk_size": 732
+    }
+  },
+  {
+    "content": "```markdown\n# RHETTA LAREDO\nSoftware Engineer III,\nFront-End\n\nRhetta@email.com\n(123) 456-7890\nSan Francisco, California\nLinkedIn\ngithub.com\n\n## EDUCATION\nB.S.\nEngineering\nSan Francisco State\nUniversity\nSeptember 2014 - June 2018\nSan Francisco, CA\nGPA: 3.8\n\n## SKILLS\n* HTML\n* CSS\n* JavaScript\n* React.js\n* Angular.js\n* Vue.js\n* TypeScript\n* Git\n\n## CERTIFICATIONS\n* AWS CCP",
+    "metadata": {
+      "source": "RHETTA_LAREDO.pdf",
+      "chunk_id": 0,
+      "chunk_size": 373
+    }
+  },
+  {
+    "content": "## CERTIFICATIONS\n* AWS CCP\n\n## WORK EXPERIENCE\n### Software Engineer III, Front-End\nPhilo\n* December 2020 - current\n* San Francisco, CA\n* Developed 37+ robust, reusable, and reliable platform components which enhanced the company platform, frameworks, and services\n* Managed 100% of change request processing coordination with 3 other teams\n* Provided technical advice and weigh-ins on technical decisions that impacted 6 cross-functional teams and company outcomes\n* Developed and defined application scopes and objectives for 11+ technical teams\n* Spearheaded 68+ group sessions to elicit complex information on requirements clarification, design sessions, code reviews, and troubleshooting issues",
+    "metadata": {
+      "source": "RHETTA_LAREDO.pdf",
+      "chunk_id": 1,
+      "chunk_size": 700
+    }
+  },
+  {
+    "content": "### Junior Software Developer\nLegalZoom\n* November 2019 - December 2020\n* San Mateo, CA\n* Created HTML assets for 37+ active marketing campaigns, including video landing pages, order form copy, and funnel copy\n* Optimized 23+ applications for maximum speed and scalability\n* Assured that 100% of user input was validated before submission to the back-end of the system\n* Wrote automated tests that ensured 100% correct functionality of the code\n* Developed 7 new user-facing features",
+    "metadata": {
+      "source": "RHETTA_LAREDO.pdf",
+      "chunk_id": 2,
+      "chunk_size": 483
+    }
+  },
+  {
+    "content": "### Entry-Level Software Engineer\nUber\n* June 2018 - November 2019\n* San Francisco, CA\n* Collaborated with 4 product management and design teams to implement innovative solutions for product direction\n* Transformed 33+ visual comps into rich web applications that were responsive, semantic, and accessible\n* Performed cross-browser testing and remediation for 100% of front-end web applications to ensure performance and superior visual quality\n* Resolved and patched 56+ software defects reported by 3 quality assurance teams\n```",
+    "metadata": {
+      "source": "RHETTA_LAREDO.pdf",
+      "chunk_id": 3,
+      "chunk_size": 530
+    }
+  },
+  {
+    "content": "(84)708 279 659 tien4112004.work@gmail.com tien4112004 in/phanttien\n\n## Education\nUniversity of Science - VNU-HCM Ho Chi Minh City, Viet Nam\nBachelor in Information Technology (Major: Software Engineering) Sep 2022 - Present (est. 2026)\n(Cumulative GPA: 3.8/4)\nNguyen Tat Thanh High School for the Gifted Kon Tum, Viet Nam\nSep 2018 - Jun 2022\n\n## Certificates & Achievements\nGitHub Foundation Certificate Dec 2024\nCambridge Preliminary English Test Νου 2024\nScore: 162/170 - Passed at Grade A - CERF B2\nScholarship for top 5% students in faculty\nSemester 1-2023-2024, Semester 1 - 2025-2026\n\n## Work Experience\nTeko Solution Ho Chi Minh City, Viet Nam\nSoftware Engineer Internship Mar 2025 - Present",
+    "metadata": {
+      "source": "dphang_CV_Template.pdf",
+      "chunk_id": 0,
+      "chunk_size": 699
+    }
+  },
+  {
+    "content": "## Skills\n• Understanding OOP, Data Structure, Algorithms, Backend Development.\n• Have deep understanding about Linux, Git.\n• Languages: C#, Java, Go, TypeScript, JavaScript, C/C++, HTML/CSS, Rust, SQL\n• Databases: MySQL, SQL Server, PostgreSQL, ORM (EF Core, Hibernate, Prisma), MongoDB (NoSQL)\n• Framework: .NET, ASP .NET Core, NodeJS (Express)\n• Tools: Git, GitHub, Linux, Doxygen, Swagger, Postman, Docker, Figma, Jira.",
+    "metadata": {
+      "source": "dphang_CV_Template.pdf",
+      "chunk_id": 1,
+      "chunk_size": 423
+    }
+  },
+  {
+    "content": "## Projects\nStudent Management System | Team size: 4 Feb 2025 - May 2025\n• Description: A University Management System that helps manage students, courses, classes, faculties, and more. It\nensures easy access, data accuracy, and smooth operations, making university administration efficient and organized.\n• Technical stack:\nFrontend: React (TypeScript), TailwindCSS Backend: Java Spring Boot\nDatabase: PostgreSQL (ORM Hibernate)\n• Key features:\n* Using clean architecture for backend development to ensure modularity, maintainability, extensibility.\n* Localization for static UI elements and dynamic content stored in the database.\n* Basic features: Manage students, courses, classes, etc.\n* Using ELK stack for logging and monitoring.\n* Using Shadcn/ui to create a modern user interface with responsive and consistent design elements.\n* Using JUnit for automate unit testing.\n* Use Jenkins for CI to run unit test automatically before build and merge code.",
+    "metadata": {
+      "source": "dphang_CV_Template.pdf",
+      "chunk_id": 2,
+      "chunk_size": 958
+    }
+  },
+  {
+    "content": "* Use Jenkins for CI to run unit test automatically before build and merge code.\n• Github Repository: https://github.com/aarch64-softdes/Group21-Ex-001\nBistroQ Team size: 2 Sep 2024 - Jan 2025\n• Description: A POS app for restaurants with views for clients to place orders, cashiers to check available tables and\nprocess orders, kitchen staff to manage orders, and administrators to oversee operations.\n• Technical stack:\nFrontend: WinUI 3 (C#) Backend: ASP.NET Core (C#)\nDatabase: MySQL Other tools: Swagger, AWS S3, XUnit (unit test), Doxygen\n• Key features:\n* Implemented JWT-based authentication, including refresh token and access token mechanisms, ensuring secure\nuser session management and enhanced security.\n* POS features for restaurant: Manage menu, order, table, bill, and payment and dashboard for visualizing infor-\nmations.\n* Integrated VietQR for detailed Payment QR Code generation (including amount, transaction info).",
+    "metadata": {
+      "source": "dphang_CV_Template.pdf",
+      "chunk_id": 3,
+      "chunk_size": 936
+    }
+  },
+  {
+    "content": "* Integrated VietQR for detailed Payment QR Code generation (including amount, transaction info).\n* Designed a solid layered-architecture for both backend and frontend.\n* Utilized AWS S3 with CloudFront to store and serve images efficiently.\n* Used XUnit test framework for unit test.\n* Clean code, well-documented, and try to follow SOLID principles.\n* Applied design patterns: Repository, Unit of Work, Dependency Injection, Builder.\n• Github Repositories:\n* RESTAPI: https://github.com/tien4112004/bistro-q-api\n* WinUI 3: https://github.com/tien4112004/bistro-q\nShopSSR | Team size: 3 Oct 2024 - Jan 2025\n• Description: An e-commerce website with basic features, use server-side rendering for course CSC13008 - Web\nApplication Development at HCMUS.\n• Technical stack:\nFrontend: TaiwindCSS, EJS Backend: Express.js (JavaScript)\nDatabase: PostgreSQL (Prisma ORM)\n• Key features:\n* Session-based authentication for user login and registration.",
+    "metadata": {
+      "source": "dphang_CV_Template.pdf",
+      "chunk_id": 4,
+      "chunk_size": 943
+    }
+  },
+  {
+    "content": "• Key features:\n* Session-based authentication for user login and registration.\n* Basic features for an e-commerce website: Manage product, category, order, and payment.\n* Integrated VNPAY gateway for payment.\n* Have basic Docker setup.\n• Github Repository: shop-ssr | shop-ssr-admin",
+    "metadata": {
+      "source": "dphang_CV_Template.pdf",
+      "chunk_id": 5,
+      "chunk_size": 283
+    }
+  },
+  {
+    "content": "# PHÍ NGỌC THIỆN\nIntern Backend Developper\n\n## Thông tin cá nhân\n* 0967038187\n* thien2002cs@gmail.com\n* Thạch Thất, Hà nội\n* https://github.com/phingocthien\n\n## KỸ NĂNG CHUYÊN MÔN\n* Ngôn ngữ lập trình: HTML5, CSS3 (SCSS), JavaScript, TypeScriptript\n* Frontend: ReactJS (cơ bản), Redux\n* Backend: Node.js (Express)\n* Cơ sở dữ liệu: MySQL, SQL Server\n* Thư viện / Framework: Bootstrap, jQuery, Bcrypt.js, Zod, Multer.js, Nodemon\n* Xác thực: Passport (JWT, session-based)\n* Công cụ: GitHub, Postman, Prisma\n\n## MỤC TIÊU NGHỀ NGHIỆP\nMục tiêu ngắn hạn\n* Là một sinh viên Công Nghệ Thông Tin, với những kiến thức đã học em mong muốn được thực tập tập vị trí backend Developer để học hỏi kinh nghiệm thực tế nâng cao kĩ năng lập trình, định hướng trở thành fullstack developer (nodejs, reactjs)",
+    "metadata": {
+      "source": "PHI-NGOC-THIEN-TopCV.vn-lan1.pdf",
+      "chunk_id": 0,
+      "chunk_size": 787
+    }
+  },
+  {
+    "content": "Mục tiêu dài hạn\n* Sau 4-5 năm tới phấn đấu trở thành một fullstack developer chuyên nghiệp xây dựng thiết kế hệ thống hiệu quả, ổn định và dễ mở rộng. hướng đến việc làm chủ kiến trúc hệ thống, tối ưu hiệu năng, bảo mật và tham gia vào các dự án lớn, có quy mô hàng triệu người dùng.\n\n## HỌC VẤN\nCao đẳng Công nghiệp Quốc Phòng (2022 – 2025)\nChuyên ngành: Công nghệ Thông tin\n* Học lực: Khá\n* Kế hoạch: Học thêm chứng chỉ tiếng Anh, tiếng Trung",
+    "metadata": {
+      "source": "PHI-NGOC-THIEN-TopCV.vn-lan1.pdf",
+      "chunk_id": 1,
+      "chunk_size": 445
+    }
+  },
+  {
+    "content": "## KINH NGHIỆM / DỰ ÁN\nLaptopShop Management System (2023 - 2024)\nBackend Developer – Dự án thực hành theo Udemy – Hỏi Dân IT\n* GitHub: github.com/phingocthien/nodejs_pro\n* Mô hình: MVC (Model - View - Controller) với Prisma, EJS, Express, sử dụng\n* Mô tả dự án:\n    * Phát triển hệ thống web quản lý bán hàng laptop, bao gồm cả giao diện người dùng và trang quản trị. Hệ thống hỗ trợ đăng ký, đăng nhập, quản lý sản phẩm, đơn hàng và giỏ hàng.\n* Các chức năng chính:\n    * Admin (Trang quản trị):\n        * Hiển thị giao diện quản trị: Dashboard, quản lý người dùng, sản phẩm, đơn hàng\n        * Tính năng CRUD cho user, sản phẩm, đơn hàng\n        * Upload ảnh sản phẩm bằng thư viện Multer\n        * Mã hoá mật khẩu bằng Bcrypt.js\n        * Tích hợp phân trang bằng Bootstrap\n    * Client (Người dùng):\n        * Hiển thị danh sách sản phẩm (home page), xem chi tiết từng sản phẩm\n        * Quản lý giỏ hàng: thêm, xoá, cập nhật sản phẩm\n        * Đăng ký/đăng nhập có xác thực đầu vào với Zod",
+    "metadata": {
+      "source": "PHI-NGOC-THIEN-TopCV.vn-lan1.pdf",
+      "chunk_id": 2,
+      "chunk_size": 995
+    }
+  },
+  {
+    "content": "* Đăng ký/đăng nhập có xác thực đầu vào với Zod\n        * Xem lịch sử đơn hàng và chi tiết từng đơn\n        * Thiết kế cơ sở dữ liệu và kiểm thử API với Postman",
+    "metadata": {
+      "source": "PHI-NGOC-THIEN-TopCV.vn-lan1.pdf",
+      "chunk_id": 3,
+      "chunk_size": 160
+    }
+  },
+  {
+    "content": "Todo App (Dự kiến – Tháng 8)\n* Xây dựng RESTful API với Node.js/Express\n* Giao diện bằng Ant Design\n* CRUD người dùng, chức năng đăng ký/đăng nhập\n* Có thể mở rộng thêm chức năng trong tương lai\n\n## KINH NGHIỆM KHÁC\nPhố Ngon 37 (Golden Gate) (2022 - 2023)\n* Tham gia các buổi training kỹ năng mềm\n* Làm việc từ vị trí phục vụ đến tổ trưởng/quầy bar\n* Hướng dẫn, đào tạo nhân viên mới\n* Rèn luyện kỹ năng giao tiếp, giải quyết tình huống và teamwork\n\n## KỸ NĂNG MỀM\n* Đọc hiểu tài liệu tiếng Anh cơ bản\n* Kỹ năng làm việc nhóm, thuyết trình, giải quyết vấn đề\n* Sử dụng thành thạo các công cụ Microsoft Office\n\n## SỞ THÍCH\nchạy bộ, bơi, gym",
+    "metadata": {
+      "source": "PHI-NGOC-THIEN-TopCV.vn-lan1.pdf",
+      "chunk_id": 4,
+      "chunk_size": 639
+    }
+  },
+  {
+    "content": "```markdown\n# TRƯƠNG TUẤN HẢI\nIntern PHP/Laravel framework\n\n*   16/12/2002\n*   truonghai16122002@gmail.com\n*   Hà Nội\n*   0344885035\n*   truonghai2\n\n## Introduce\nMy name is Hai. A 4th year student at the Academy of Posts and Telecommunications Technology.\nWith a passion for learning, I want to do an internship early to gain experience and gain experience.\nMy goal is to become a professional fullstacks programmer within the next 3-4 years. Further, I am a Leader, Manager,...\n\n## Career Objective:\n\n1 : To become a professional Back-end developer within the next 1-2 years, building on my current knowledge and further\ndeepening my understanding of technology to enhance my expertise. I aim to participate in projects to maximize my potential, gain\nexperience in project implementation, and become proficient in Front-end and Back-end technologies.",
+    "metadata": {
+      "source": "Truong_Tuan_Hai_INTERN_PHP.pdf",
+      "chunk_id": 0,
+      "chunk_size": 851
+    }
+  },
+  {
+    "content": "2 : To commit long-term to my work, participate in the development of large-scale projects, and become a technology expert.\nMy role will involve analyzing customer requirements, designing systems, and overseeing the Developer team to ensure that they\nfollow the design (during the construction, operation, and expansion of the system).\n\n## Experience\n\n**PTTC1** 10/2024-12/2024\n\n*   Upgrade LMS MOODLE software\n*   Install LMS LEARNING\n*   Develop new features\n*   Update, maintain, and upgrade the system\n*   Customize functions\n\n## Skills\n\n**Technical Skill**",
+    "metadata": {
+      "source": "Truong_Tuan_Hai_INTERN_PHP.pdf",
+      "chunk_id": 1,
+      "chunk_size": 561
+    }
+  },
+  {
+    "content": "## Skills\n\n**Technical Skill**\n\n*   Front-end Development\n    *   Languages & Frameworks: Vue.js, JavaScript,\n        HTML5, CSS, Bootstrap, jQuery, Ajax.\n    *   Experience: Interface design, responsive design, and\n        API integration.\n*   Back-end Development\n    *   Languages & Frameworks: PHP, Laravel, Moodle.\n    *   Database: MySQL.\n*   Core Competencies:\n    *   Routing\n    *   Controllers\n    *   Views and Blade Templates\n    *   Model\n    *   Eloquent\n    *   ORM\n    *   Interface and Dependency Injection\n    *   Event Handling: Events, Listeners, Realtime with\n        Pusher.\n    *   Design Patterns: Repository, Builder, Service,\n        Factory, Observer.\n*   Security\n    *   Practices: Cross-Site Scripting (XSS) prevention, SQL\n        Injection protection.\n*   API Development\n    *   Experience: RESTful API design, integration with\n        third-party services such as Google Drive.\n\n## Language\n\nEnglish\nBasic English reading and comprehension.",
+    "metadata": {
+      "source": "Truong_Tuan_Hai_INTERN_PHP.pdf",
+      "chunk_id": 2,
+      "chunk_size": 974
+    }
+  },
+  {
+    "content": "## Language\n\nEnglish\nBasic English reading and comprehension.\n\n## Personal Attributes:\nAbility to quickly learn and adapt to new technologies.\n\nCapable of working independently and in teams, with a strong sense of responsibility in work. Good problem-solving\nskills.\n\nAlways adhere to principles, rules, and the surrounding environment.\n\n## Projects\n\n**Ecommerce Web** 8 weeks\n\nTechnology used:\n\n*   \\* Front - end:\n    *   HTML5, CSS, REPONSIVE.\n    *   Boostrap, Jquery, Ajax.\n    *   JS\n*   \\* Back-end\n    *   Laravel\n    *   MySQL\n    *   API\n    *   Design pattern\n    *   Api Google Drive\n    *   Notification\n    *   SMS\n    *   Realtime\n\nPosition:\n\n*   Fullstacks Developer\n\nJob position:\n\n*   Interface Design\n*   Feature Development\n*   Integrate online payment methods, integrate APIs from third-party services such as GHN, Google drive...\n\n**Bault Dating**\n\nTech:",
+    "metadata": {
+      "source": "Truong_Tuan_Hai_INTERN_PHP.pdf",
+      "chunk_id": 3,
+      "chunk_size": 876
+    }
+  },
+  {
+    "content": "**Bault Dating**\n\nTech:\n\n*   Front-end:\n    *   HTML3,CSS, AJAX, JQUERY Blade\n*   Back-end:\n    *   PHP\n    *   laravel\n    *   MySQL\n    *   Pusher\n    *   Design pattern\n*   Completed Features:\n    *   Real-time chat\n    *   Pair users according to user requirements\n    *   Matching random users\n    *   Look around for users\n    *   Recommend users based on interests and distance\n    *   Post an article\n    *   Login\n    *   Notifications\n```",
+    "metadata": {
+      "source": "Truong_Tuan_Hai_INTERN_PHP.pdf",
+      "chunk_id": 4,
+      "chunk_size": 448
+    }
+  },
+  {
+    "content": "```markdown\n# SELENE ARCHER\nFAANG Software\nEngineer\n\ns.archer@email.com\n(123) 456-7890\nSeattle, WA\nin LinkedIn\n\n## EDUCATION\nBachelor of Science\nComputer Science\nUniversity of Washington\n2014-2018\nSeattle, WA\n\n## SKILLS\n*   Python\n*   Git\n*   Visual Studio Code\n*   AWS\n*   Docker\n*   Jenkins\n*   PostgreSQL\n*   Apache Hadoop\n*   Prometheus\n*   React\n\n## WORK EXPERIENCE\nFAANG Software Engineer\nGoogle\n*   2023 - current\n*   Seattle, WA\n*   Maintained front-end components of Google's help page using React, boosting monthly user engagement metrics by 21%.\n*   Used Visual Studio Code for quick code editing, completing coding tasks 2 quicker on average.\n*   Developed and deployed 8 extensions with the help of AWS, expanding Google Chrome's user base by 13%.\n*   Automated various testing and deployment processes on Jenkins, eliminating manual intervention on 64% of testing tasks.",
+    "metadata": {
+      "source": "SELENE_ARCHER.pdf",
+      "chunk_id": 0,
+      "chunk_size": 884
+    }
+  },
+  {
+    "content": "Junior Software Engineer\nExpedia Group\n*   2019-2023\n*   Seattle, WA\n*   Integrated Prometheus alerts for proactive system monitoring, reducing incident response time by 6 seconds.\n*   Leveraged Git for version control, ensuring seamless collaboration among all junior developers and lowering merge conflict incidents by 11%.\n*   Assisted in the development of a real-time booking system, enabling customers to book domestic and international flight tickets 7 minutes quicker.\n*   Developed Python scripts to scrape information from various websites, shortening the average data extraction time by 4 seconds.",
+    "metadata": {
+      "source": "SELENE_ARCHER.pdf",
+      "chunk_id": 1,
+      "chunk_size": 608
+    }
+  },
+  {
+    "content": "Intern Software Engineer\nT-Mobile USA\n*   2018-2019\n*   Seattle, WA\n*   Worked alongside the DevOps team to integrate Docker into existing CI/CD pipelines, mitigating failed deployment cases by 12%.\n*   Held database health checks and performance tuning on PostgreSQL, decreasing latency by 26 ms.\n*   Helped senior engineers in migrating data from legacy systems to Hadoop, cutting down T-Mobile's data storage costs by $36,558.\n*   Resolved 19 bugs and issues reported by the QA team, improving the stability of the main website.\n```",
+    "metadata": {
+      "source": "SELENE_ARCHER.pdf",
+      "chunk_id": 2,
+      "chunk_size": 535
+    }
+  },
+  {
+    "content": "```markdown\n# ZARA GREENE\nSOFTWARE ENGINEERING MANAGER\n\n## CONTACT\nzaragreen@email.com\n(123) 456-7890\nMountain View, CA\nLinkedIn\nGithub\n\n## EDUCATION\nM.S.\nComputer Science with a\nconcentration in Software\nTheory or Software Systems\nStanford University\n2010-2012\nStanford, CA\n\nB.S.\nComputer Science\nCarnegie Mellon University\n2006-2010\nPittsburgh, PA\n\n## SKILLS\nEclipse\nGit\nDocker\nAmazon Web Services (AWS)\nJenkins\nReact.js\nMySQL\nJava\n\n## CERTIFICATIONS\nAWS Certified Developer from\nAmazon Web Services",
+    "metadata": {
+      "source": "ZARA_GREENE.pdf",
+      "chunk_id": 0,
+      "chunk_size": 501
+    }
+  },
+  {
+    "content": "## CERTIFICATIONS\nAWS Certified Developer from\nAmazon Web Services\n\n## WORK EXPERIENCE\nSoftware Engineering Manager\nGoogle LLC\nMay 2019 - April 2023 / Mountain View, CA\n* Boosted application performance by 23% through the strategic use of Docker for containerization and deployment.\n* Enhanced CI/CD pipelines by integrating Jenkins, accelerating release cycles by 21%.\n* Optimized data storage and retrieval with MySQL, contributing to a 29% increase in database performance.\n* Mentored 5 junior engineers on best practices, increasing their productivity and improving code quality.\n* Improved application architecture using AWS Cloud Services, reducing server response times by 28%.",
+    "metadata": {
+      "source": "ZARA_GREENE.pdf",
+      "chunk_id": 1,
+      "chunk_size": 684
+    }
+  },
+  {
+    "content": "Systems Analyst\nIBM\nOctober 2015 - April 2019 / Armonk, NY\n* Developed custom system monitoring tools using Java, improving infrastructure stability by 29%.\n* Implemented Git for version control and collaboration, reducing code conflicts by 15%.\n* Led the migration of legacy systems to modern technology stacks, improving system performance by 28%.\n* Enhanced website interface design with React.js, boosting click-through rates by 24%.\n* Leveraged MySQL for data management and analysis, boosting database performance by 26%.",
+    "metadata": {
+      "source": "ZARA_GREENE.pdf",
+      "chunk_id": 2,
+      "chunk_size": 527
+    }
+  },
+  {
+    "content": "IT Support Technician\nPNC Financial Services Group\nSeptember 2012 - September 2015 / Pittsburgh, PA\n* Resolved an average of 35 daily IT support tickets, resulting in a 28% increase in end-user satisfaction.\n* Used remote desktop tools to provide timely and efficient support, decreasing average ticket resolution time by 19%.\n* Introduced a centralized knowledge base, reducing ticket escalation rates by 23%.\n* Coordinated with vendors for timely hardware replacements and upgrades, improving equipment reliability.\n* Provided ongoing IT support for remote workforce, improving productivity by 22%.\n```",
+    "metadata": {
+      "source": "ZARA_GREENE.pdf",
+      "chunk_id": 3,
+      "chunk_size": 604
+    }
+  },
+  {
+    "content": "```markdown\n# LYSANDRA VEGA\nSoftware Engineer\nlysandrav@email.com\n(123) 456-7890\nIndianapolis, IN\nLinkedIn\n\n## CAREER OBJECTIVE\nNew computer engineering graduate with strong problem-\nsolving skills and a commitment to excellence, seeking a\nsoftware engineer role at Salesforce. Excited to use my skill in\nGit and Python to support Salesforce's vision of helping\ncompanies connect with their customers in fresh ways.",
+    "metadata": {
+      "source": "LYSANDRA_VEGA.pdf",
+      "chunk_id": 0,
+      "chunk_size": 415
+    }
+  },
+  {
+    "content": "## WORK EXPERIENCE\nSoftware Engineer Intern\n**Infosys**\nJanuary 2022 - March 2023\nIndianapolis, IN\n- Used Visual Studio Code for effective code editing and\ndebugging, increasing code quality by 18%.\n- Integrated third-party APIs with Python to enhance app\nfunctionality and increase user satisfaction by 24%.\n- Improved database performance by optimizing MySQL\nqueries, boosting query response times by 11%.\n- Streamlined the continuous integration and deployment\n(CI/CD) pipeline, reducing build times by 27%.\n- Cut merge conflicts by 13% using Git for version control\nand collaboration.\n\n## EDUCATION\nB.S.\nComputer Engineering\n**Purdue University**\nSeptember 2019 - April 2023\nWest Lafayette, IN\n\n## SKILLS\n- Visual Studio Code\n- Git\n- MySQL\n- Django\n- Heroku\n- macOS\n- Python\n\n## CERTIFICATIONS\n- Certified Software Development\nProfessional (CSDP)",
+    "metadata": {
+      "source": "LYSANDRA_VEGA.pdf",
+      "chunk_id": 1,
+      "chunk_size": 850
+    }
+  },
+  {
+    "content": "## CERTIFICATIONS\n- Certified Software Development\nProfessional (CSDP)\n\n## PROJECTS\nAcademic Simulation Project\n**Group Leader**\n2019 - current\n- Developed backup and recovery strategies for macOS,\nincreasing data recovery speeds by 17%.\n- Implemented efficient MySQL database schemas and\ndecreased data redundancy by 28%.\n- Employed Django ORM to manage database interactions,\nstreamlining and reducing development time by 19%.\n- Collaborated with a team of 4 to ensure timely project\ndelivery while adhering to best practices.\n```",
+    "metadata": {
+      "source": "LYSANDRA_VEGA.pdf",
+      "chunk_id": 2,
+      "chunk_size": 532
+    }
+  },
+  {
+    "content": "## Học vấn\n\n**CÔNG NGHỆ THÔNG TIN** 09/2020 - Hiện nay\n\nĐại học Công Thương\n\n## Mục tiêu nghề nghiệp\n\nHiện tại tôi có thể đi thực tập full time. Tôi mong muốn tìm được một môi trường làm việc\nđầy nhiệt huyết và máu lửa, mong muốn được phát triển và gắn bó lâu dài với công ty sau\nthời gian thực tập. Bởi tôi hiểu rằng, khi bạn nỗ lực hết mình vì Công ty, bạn sẽ nhận được\nthành công xứng đáng.\n\n## Dự án cá nhân\n\n**1.website thương mại điện tử**\n*   Mô tả: Trang bán các sản phẩm điện thoại, laptop, phụ kiện,.. CRUD user, sản phẩm, đơn\nhàng, quản lý giỏ hàng.\n*   Số lượng thành viên: 1\n*   Công nghệ: HTML, CSS, jQuery, PHP Laravel, PostgreSQL\n*   Source: https://github.com/Proly1st/laravel8x",
+    "metadata": {
+      "source": "Thanh-Tan-PHP-CV.pdf",
+      "chunk_id": 0,
+      "chunk_size": 695
+    }
+  },
+  {
+    "content": "**2. Xây dựng chức năng tìm kiếm với CSDL MongoDB**\n*   Mô tả: dựa vào template pitnik tiến hành xây dựng chức năng hiển thị tên người dùng\ntương ứng với nội dung đã nhập.\n*   Số lượng thành viên: 1\n*   Công nghệ: HTML, CSS, JQuery, PHP Laravel, MongoDB\n*   Source: https://github.com/Proly1st/search-Mongodb\n\n**3. Landing page**\n*   Mô tả: Xây dựng trang chủ giới thiệu, quảng cáo\n*   Số lượng thành viên: 1\n*   Công nghệ: HTML, CSS, JQuery, PHP Laravel\n*   Source: https://github.com/Proly1st/Landing-page\n\n**4. Quản lý trường học**\n*   Mô tả: Xây dựng website giúp quản lý học sinh của trung tâm anh ngữ (có lịch học,\nthu chi, điểm danh, lương, tài khoản,..)\n*   Số lượng thành viên: 1\n*   Công nghệ: HTML, CSS, JQuery, PHP Laravel, MySQL\n*   Source: https://github.com/Proly1st/QuanLyTruongHoc\n\n## Kĩ năng\n\nHTML/CSS\n\nBootstrap\n\nJavascript, jQuery\n\nPHP Laravel\n\nPostman\n\nGit\n\nSQL, MongoDB, MySQL, PostgreSQL\n\nRedis",
+    "metadata": {
+      "source": "Thanh-Tan-PHP-CV.pdf",
+      "chunk_id": 1,
+      "chunk_size": 917
+    }
+  },
+  {
+    "content": "```markdown\nNguyen Quoc Tuong\n[github.com/zjn1404](github.com/zjn1404)\n[linkedin.com/in/nqt1404](linkedin.com/in/nqt1404)\n[nqt460@gmail.com](mailto:nqt460@gmail.com)\n(+84) 777460670\n\n## EDUCATION\n\nVNUHCM - University of Science – Major: Software Engineering 2022 - 2026\nCurrent GPA: 3.8 / 4.0 (Major: 3.93 / 4.0)\nToeic Listening And Reading – ETS: 870 07 Oct 2024\nHyperskill Certificate: Java Core – JetBrains Academy 02 Apr 2024\nHyperskill Certificate: Introduction to Java – JetBrains Academy 06 Nov 2023\n\n## TECHNICAL SKILLS\n\nKnowledge of: OOP, Data Structures & Algorithms, Backend Web Development\nLanguage: Java, C/C++, HTML/CSS\nTool: Git/GitHub, Visual Studio Code, IntelliJ IDEA, Postman, Docker\nDatabase: SQL Server, MySQL, MongoDB\nFramework: Spring\n\n## PROJECTS",
+    "metadata": {
+      "source": "CV_NguyenQuocTuong.pdf",
+      "chunk_id": 0,
+      "chunk_size": 770
+    }
+  },
+  {
+    "content": "Wibu Forums | Java / Spring Boot Aug. 2024 – Present\n* Role: Backend Developer\n* Description: A community-driven platform where anime and manga enthusiasts (wibus) come together to share\nknowledge, discuss their favorite series, and connect with like-minded fans. Built with a microservices architecture using\nSpring Boot for scalability and performance.\n* Technical Stack:\n    * Framework: Spring boot\n    * API Test: Postman\n    * API Document: Swagger UI\n    * DBMS: MySQL, MongoDB, Neo4j\n* Key Features:\n    * Authentication: Implemented JWT-based authentication with refresh token support, including Google login, to\nmaintain user sessions securely.\n    * Send Verification Email: Integrated Brevo for sending verification emails to new users.\n    * Social Media Features: Developed features for adding/removing friends, creating posts, and commenting.\n    * Clean Up: Scheduled tasks to clean up expired tokens every 24 hours.",
+    "metadata": {
+      "source": "CV_NguyenQuocTuong.pdf",
+      "chunk_id": 1,
+      "chunk_size": 932
+    }
+  },
+  {
+    "content": "* Clean Up: Scheduled tasks to clean up expired tokens every 24 hours.\n* Github Repo: [github.com/zjn1404/Wibu-Forums](github.com/zjn1404/Wibu-Forums)",
+    "metadata": {
+      "source": "CV_NguyenQuocTuong.pdf",
+      "chunk_id": 2,
+      "chunk_size": 150
+    }
+  },
+  {
+    "content": "Espada Store | Java / Spring Boot Jul. 2024 – Aug. 2024\n* Role: Backend Developer\n* Description: Developed an online streetwear store with a focus on robust backend functionality.\n* Technical Stack:\n    * Framework: Spring boot\n    * API Test: Postman\n    * API Document: Swagger UI\n    * DBMS: MySQL\n* Key Features:\n    * Authentication: Implemented JWT-based authentication with refresh token support to prevent users from being\nlogged out when the access token expires.\n    * Product Search: Enabled users to search for products by name or ID.\n    * Internet Payment: Integrated VNPay for secure online payments, a crucial feature for modern ecommerce\nplatforms.\n    * Clean Up: Scheduled tasks to clean up expired tokens every 24 hours and delete orders quarterly.\n* Github Repo: [github.com/zjn1404/Espada-Store](github.com/zjn1404/Espada-Store)\n\n## ACTIVITIES",
+    "metadata": {
+      "source": "CV_NguyenQuocTuong.pdf",
+      "chunk_id": 3,
+      "chunk_size": 865
+    }
+  },
+  {
+    "content": "## ACTIVITIES\n\nVNUHCM-University of Science | Ho Chi Minh City, VN Oct. 2022 – Present\n* Google Developer Student Club – HCMUS | Backend Specialist\n\n## OTHER SKILLS\n\nEnglish: Confident in communication.\n```",
+    "metadata": {
+      "source": "CV_NguyenQuocTuong.pdf",
+      "chunk_id": 4,
+      "chunk_size": 206
+    }
+  },
+  {
+    "content": "```markdown\n# KIAN WOODS\nEXPERIENCED SOFTWARE ENGINEER\n\n## CONTACT\nkianwoods@email.com\n(123) 456-7890\nPittsburgh, PA\nLinkedIn\n\n## EDUCATION\nBachelor of Science\nComputer Science\nCarnegie Mellon University\n2013 - 2017\nPittsburgh, PA\n\n## SKILLS\nPyCharm\nMercurial\nRuby on Rails\nMicrosoft SQL Server\nGoogle Cloud Platform\nPHPUnit\nOpenShift\nCircleCl\nC++\nPyTorch\n\n## CERTIFICATIONS\nCertified Software\nDevelopment Associate (IEEE)\n\n## WORK EXPERIENCE\n**Software Engineer**\nDuolingo\nAugust 2020 - current / Pittsburgh, PA\n*   Optimized machine learning algorithms with a C++ library for a **38% boost to the efficiency of language learning models.**\n*   Employed PyTorch to develop and improve the Al-driven language pronunciation feedback system.\n*   Used PyCharm as the primary IDE to increase development efficiency for a 27% reduction in bug-fixing time.\n*   Worked with data science team to integrate machine learning algorithms to improved language model accuracy.",
+    "metadata": {
+      "source": "KIAN_WOODS.pdf",
+      "chunk_id": 0,
+      "chunk_size": 961
+    }
+  },
+  {
+    "content": "**DevOps Engineer**\nPNC Financial Services\nJune 2017 - June 2020 / Pittsburgh, PA\n*   Streamlined deployment process by implementing CircleCI, reducing build times by 34% and increasing deployment frequency by 61%.\n*   Led a team to migrate the company's database from MySQL to Microsoft SQL and to decrease query times by 21%.\n*   Developed custom Mercurial hooks to enforce coding standards, **reducing code review time by 13%.**\n*   Improved software release pipeline security by automating vulnerability scanning and patching.",
+    "metadata": {
+      "source": "KIAN_WOODS.pdf",
+      "chunk_id": 1,
+      "chunk_size": 530
+    }
+  },
+  {
+    "content": "**Software Developer Intern**\nVanguard\n2016 - 2017 / Remote\n*   Assisted in refactoring C++ code, helping to cut maintenance by 14% and improving app performance.\n*   Conducted code reviews under 2 senior developers.\n*   Helped migrate applications to AWS and Azure, which cut infrastructure costs by 12% and aided application availability.\n*   Built a custom notification system with JavaScript and WebSocket, increasing user engagement by 23% and improving real-time communication capabilities.\n```",
+    "metadata": {
+      "source": "KIAN_WOODS.pdf",
+      "chunk_id": 2,
+      "chunk_size": 500
+    }
+  },
+  {
+    "content": "```markdown\nZixin Kuàng\nFull Stack Software Engineer\n\nzixin.k@email.com\n(123) 456-7890\nProvidence, RI\nLinkedIn\n\n## Work Experience\n**Tokio Marine HCC - Full Stack Software Engineer**\n2020 - current\nWarwick, RI\n* Managed a team of 7 junior engineers using Agile methods to deliver software solutions\n* Coded advanced-level programs and design enhancements for 3 existing applications\n* Developed automation solutions using Python and Java to increase process efficiency by ~43%\n* Devised functionality for 30+ products based on internal, customer/vendor, and industry input\n* Worked with 15+ stakeholders to ensure source control systems met all needs, including CI/CD",
+    "metadata": {
+      "source": "Zixin_Kuàng.pdf",
+      "chunk_id": 0,
+      "chunk_size": 667
+    }
+  },
+  {
+    "content": "**Availity - Full Stack Java Software Engineer**\n2018-2020\nProvidence, RI\n* Built and maintained 100% of backend REST Services using Java\n* Directed 200+ client focus groups, interviews, and usage analysis sessions\n* Collaborated with 2 designers and 6 other developers in an Agile team to rapid prototype\n* Translated 40+ wireframes/sketches into working prototypes to refine user interface behaviors\n* Designed, coded, maintained, tested, implemented, and validated 300+ web applications",
+    "metadata": {
+      "source": "Zixin_Kuàng.pdf",
+      "chunk_id": 1,
+      "chunk_size": 489
+    }
+  },
+  {
+    "content": "**Fidelity Investments - Full Stack Software Engineer**\n2014-2018\nSmithfield, RI\n* Analyzed 12 existing applications to formulate logic for new applications, procedures, & flowcharting, coding and debugging programs\n* Analyzed and utilized application and programming documents to develop of clean, scalable, and reusable code for 30+ projects\n* Developed 20+ application implementation plans throughout the production life cycle to create appropriate deliverables, increasing productivity by ~23%\n* Recommended changes in development, maintenance and system standards, leading to the adoption of lean principles that increased team effectiveness and efficiency by73%\n\n## Education\n**University of Rhode Island - Bachelor's of Science, Computer Science**\n2010-2014\nKingston, RI\n\n## Skills\nHTML; CSS; Java; JavaScript; React; Redux; Angular; Node; Jest; MongoDB\n```",
+    "metadata": {
+      "source": "Zixin_Kuàng.pdf",
+      "chunk_id": 2,
+      "chunk_size": 864
+    }
+  }
+]
